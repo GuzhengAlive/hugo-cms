@@ -19,5 +19,17 @@ products:
       [Guzheng Timelines](#)
 
       [Schools and styles](#)
+  - title: prod 3
+    image: /img/about-direct-sourcing.jpg
+    text: here is!
+  - title: prod 4
+    image: /img/about-jumbotron.jpg
+    text: here is
+  - title: prod 5
+    image: /img/about-single-origin.jpg
+    text: here is
+  - title: prod 6
+    image: /img/about-reinvest-profits.jpg
+    text: here is
 ---
 
