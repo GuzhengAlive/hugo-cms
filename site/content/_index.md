@@ -1,7 +1,7 @@
 ---
 title: Welcome to Guzheng Alive
 subtitle: Guzheng information in English
-image: img/home-jumbotron.jpg
+image: /img/china-music-2018-guzheng-display.jpg
 products:
   - title: Title 1!
     image: img/illustrations-coffee.svg
