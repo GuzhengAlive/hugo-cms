@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Welcome to Guzheng Alive
+subtitle: Guzheng information in English
 image: img/home-jumbotron.jpg
 products:
   - title: Title 1!
