@@ -6,11 +6,26 @@ products:
   - title: Title 1!
     image: img/illustrations-coffee.svg
     text: |-
-      [Link to area 1](#)
+      [Link to area 1](guzhengalive.com)
 
       [Link to area 2](#)
 
       [Another link to area 3](#)
+
+
+
+      # Other markdown renderings
+
+      ```
+      are not
+      ```
+
+      >
+      >
+      > \
+      >
+      >
+      > Showing up
   - title: Title 2!
     image: img/illustrations-coffee-gear.svg
     text: |-
