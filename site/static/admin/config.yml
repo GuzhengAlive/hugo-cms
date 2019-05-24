@@ -39,8 +39,8 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
       - file: "site/content/_home.md"
-        label: "Home Page"
-        name: "home"
+        label: "New Home Page"
+        name: "new-home"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
