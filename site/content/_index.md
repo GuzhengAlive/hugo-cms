@@ -11,21 +11,6 @@ products:
       [Link to area 2](#)
 
       [Another link to area 3](#)
-
-
-
-      # Other markdown renderings
-
-      ```
-      are not
-      ```
-
-      >
-      >
-      > \
-      >
-      >
-      > Showing up
   - title: Title 2!
     image: img/illustrations-coffee-gear.svg
     text: |-
