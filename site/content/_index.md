@@ -4,7 +4,7 @@ subtitle: Guzheng information in English
 image: /img/china-music-2018-guzheng-display.jpg
 products:
   - title: Origin
-    image: img/illustrations-coffee.svg
+    image: /img/tomb-306-musicians-smithsonian.png
     text: |-
       [Link to area 1](guzhengalive.com)
 
@@ -12,7 +12,7 @@ products:
 
       [Another link to area 3](#)
   - title: How to Tune
-    image: img/illustrations-coffee-gear.svg
+    image: /img/two-color-background.png
     text: |-
       [For example, Guzheng in 90 seconds](#)
 
@@ -20,20 +20,17 @@ products:
 
       [Schools and styles](#)
   - title: The Basics
-    image: /img/about-direct-sourcing.jpg
+    image: /img/usda-performer.jpg
     text: 'Intro, techniques, sheet music, teachers'
   - title: Buying
-    image: /img/about-jumbotron.jpg
+    image: /img/retailers.jpg
     text: here is
   - title: Care and Maintenance
-    image: /img/about-single-origin.jpg
+    image: /img/dusty-soundboard.jpg
     text: More detailed articles?
   - title: Accessories
-    image: /img/about-reinvest-profits.jpg
+    image: /img/nail-notches_compressed.jpg
     text: here is
-  - title: History
-    image: /img/united-by-music-2edied_compressed.jpg
-    text: History stuff
   - title: Theory
     image: /img/img_3282.jpg
     text: Text!
