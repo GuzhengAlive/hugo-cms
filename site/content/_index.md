@@ -6,39 +6,125 @@ products:
   - title: Origin
     image: /img/tomb-306-musicians-smithsonian.png
     text: |-
-      [Link to area 1](guzhengalive.com)
+      GZ in 90 Seconds
 
-      [Link to area 2](#)
+      Guzheng's Long History
 
-      [Another link to area 3](#)
+      Timelines
   - title: Tuning
     image: /img/two-color-background.png
     text: |-
-      [For example, Guzheng in 90 seconds](#)
+      21 Strings
 
-      [Guzheng Timelines](#)
+      16, 18, 23, 26-String
 
-      [Schools and styles](#)
+      Butterfly, Multitonic
+
+      Diatonic 
+
+      Change Keys
+
+      Construct Keys
   - title: The Basics
     image: /img/usda-performer.jpg
-    text: 'Intro, techniques, sheet music, teachers'
+    text: |-
+      Where to start
+
+      Teachers
+
+      Read Sheet Music
+
+      Finger Techniques
+
+      Parts and Terms
   - title: Buying
     image: /img/retailers.jpg
-    text: here is
+    text: |-
+      Cost of Ownership
+
+      Buy New
+
+      Buy Used
+
+      Find Stores
   - title: Care and Maintenance
     image: /img/dusty-soundboard.jpg
-    text: More detailed articles?
+    text: |-
+      Clean and Maintain
+
+      Mail and Ship
   - title: Accessories
     image: /img/nail-notches_compressed.jpg
-    text: here is
+    text: |-
+      Fingerpicks
+
+      Fingerpick Materials
+
+      Identifying Turtle Shell
+
+      Strings
+
+      Stands
+
+      Cases
+
+      Tuners
+
+      Reviews
   - title: Theory
     image: /img/img_3282.jpg
     text: Text!
   - title: Music?
     image: /img/冷暖人生-dennis-wong_compressed.jpg
-    text: Repertoire maybe?
+    text: |-
+      Finding Sheet Music
+
+      Repertoire
+
+      New Releases
+
+      Examples
+
+      Schools and Styles
+
+      What is a guzheng School
+
+      How to Write Sheet Music
   - title: Community
     image: /img/artsfest_008-by-aesthir-orig.jpg
-    text: 'bands, performers, experts...'
+    text: |-
+      Artists (Famous?)
+
+      Bands
+
+      Blogs
+
+      Experts
+
+      Forum
+
+      Teachers (2?)
+
+      Stores (2)
+  - title: Types
+    image: /img/verticalzhengssmall.jpg
+    text: |-
+      Guzheng Types
+
+      Similar Instruments
+
+      Virtual Instruments and Software
+  - title: How it's Made
+    image: /img/instrument-making-tools_compressed.jpg
+    text: |-
+      How to Make
+
+      3D Model
+
+      Woods Used
+
+      Wood Drying
+
+      Legal Issues
 ---
 
