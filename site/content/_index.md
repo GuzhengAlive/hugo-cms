@@ -73,7 +73,7 @@ products:
       Reviews
   - title: Theory
     image: /img/img_3282.jpg
-    text: Text!
+    text: Mother Tunes and Music Theory
   - title: Music?
     image: /img/冷暖人生-dennis-wong_compressed.jpg
     text: |-
