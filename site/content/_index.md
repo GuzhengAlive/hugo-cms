@@ -11,7 +11,7 @@ products:
       [Link to area 2](#)
 
       [Another link to area 3](#)
-  - title: How to Tune
+  - title: Tuning
     image: /img/two-color-background.png
     text: |-
       [For example, Guzheng in 90 seconds](#)
