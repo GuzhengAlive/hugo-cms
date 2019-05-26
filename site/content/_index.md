@@ -1,6 +1,6 @@
 ---
-title: Welcome to Guzheng Alive
-subtitle: Guzheng information in English
+title: Welcome to G-----g A---e
+subtitle: G-----g information in English
 image: /img/china-music-2018-guzheng-display.jpg
 products:
   - title: Origin
@@ -8,7 +8,7 @@ products:
     text: |-
       GZ in 90 Seconds
 
-      Guzheng's Long History
+      G-----g's Long History
 
       Timelines
   - title: Tuning
@@ -20,7 +20,7 @@ products:
 
       Butterfly, Multitonic
 
-      Diatonic 
+      Diatonic
 
       Change Keys
 
@@ -87,7 +87,7 @@ products:
 
       Schools and Styles
 
-      What is a guzheng School
+      What is a g-----g School
 
       How to Write Sheet Music
   - title: Community
@@ -109,7 +109,7 @@ products:
   - title: Types
     image: /img/verticalzhengssmall.jpg
     text: |-
-      Guzheng Types
+      G-----g Types
 
       Similar Instruments
 
@@ -127,4 +127,3 @@ products:
 
       Legal Issues
 ---
-
