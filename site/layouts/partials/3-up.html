@@ -8,7 +8,7 @@
       <div class="ph2-ns w-33-ns">
         <h2 class="f3 b lh-title mb2">{{.title}}</h2>
         <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
-        <h6 class="f6 mb0">{{.text  | markdownify }}</h6>
+        {{.text  | markdownify }}
       </div>
       {{ end }}
     </div>
