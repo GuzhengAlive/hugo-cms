@@ -1,45 +1,39 @@
 ---
-title: "Blogs and Private Works"
-image: /img/about-jumbotron.jpg
+title: Blogs and Private Works
+image: /img/guqin-reflections-home-page-photo-1_compressed2.jpg
 blogs:
-  - heading: "Shade-grown coffee"
-    text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
-    text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+  - heading: Beyond the Zheng
+    imageUrl: /img/beyondthezhengcover.jpg
+    text: >-
+      A delightfully personal project sharing the experiences of one community
+      member in Chinese and English! Topics include perspectives on nails,
+      books, teaching sources, and more. It’s exciting to see where the author
+      is heading in 2019!
+  - heading: Guqin Reflections
+    imageUrl: /img/guqin-reflections-home-page-photo-1_compressed2.jpg
+    text: >-
+      A recent addition to the landscape! The work of this author gets
+      excitingly technical. If you’d rather go all in on the qin (we won’t hold
+      it against you) their Guqin Resources page has some astounding, truly
+      incredible resources.
+  - heading: Swannjie
+    imageUrl: /img/swanjiecover.jpg
+    text: >-
+      An absolute must - the creation of a carbon fiber qin. Important note: If
+      you desire to create your own carbon fiber composite please take the time
+      to learn how to handle its ingredients safely. That is a material that
+      should be attempted only with proper safety equipment and handling
+      knowledge.
+  - heading: Little Old Qin Maker
+    imageUrl: /img/littleoldqinmakerphoto_compressed.jpg
+    text: >-
+      A thorough look at the work that goes into creating a qin. Explore and
+      enjoy!
+  - heading: Silk Qin
+    imageUrl: /img/john-thompson.jpg
+    text: >-
+      The original zither research website making master. His presence
+      encouraged me to take on this massive undertaking, and his scholarship
+      helped me find some information I would not have otherwise encountered.
 ---
+
