@@ -4,13 +4,8 @@
 
 <div class="mw7 center ph3 pt4">
 
-  {{ range $index, $element := .Params.blogs }}
-    {{ if modBool $index 2 }}
-      {{ partial "media-block-link" $element }}
-    {{ else }}
-      {{ partial "media-block-reverse-link" $element }}
-    {{ end }}
-  {{ end }}
+  {{ range $index, $element := .Params.items }}
+  {{ partial "media-block-link" $element }}
 
 </div>
 

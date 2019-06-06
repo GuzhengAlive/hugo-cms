@@ -87,3 +87,18 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
               - {label: Link, name: link, widget: markdown}
+
+      - file: "site/content/finger-picks/_index.md"
+        label: "Finger Picks Page"
+        name: "finger-picks"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Items
+            name: items
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
+              - {label: Caption, name: caption, widget: text}
