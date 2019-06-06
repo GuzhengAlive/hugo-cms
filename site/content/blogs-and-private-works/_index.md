@@ -29,7 +29,8 @@ blogs:
       knowledge.
   - heading: Little Old Qin Maker
     imageUrl: /img/littleoldqinmakerphoto_compressed.jpg
-    link: '<http://littleoldqinmaker.blogspot.com/?view=flipcard>'
+    link: >-
+      [http://littleoldqinmaker.blogspot.com/](http://littleoldqinmaker.blogspot.com/?view=flipcard)
     text: >-
       A thorough look at the work that goes into creating a qin. Explore and
       enjoy!
