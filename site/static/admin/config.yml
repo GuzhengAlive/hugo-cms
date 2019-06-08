@@ -25,6 +25,11 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      label: Videos
+        name: videos
+        widget: list
+        fields:
+          - {label: Video Code, name: video-code, widget: string}
   - name: "pages"
     label: "Pages"
     files:
