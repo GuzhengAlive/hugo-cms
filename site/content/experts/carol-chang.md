@@ -11,9 +11,9 @@ Carol Chang has also published massive sets of photographs from factory tours an
 
 Carol Chang's articles led directly to the Woods and Drying pages, have led to the planning of several more pages, and her discussions on various forums have helped me understand technical aspects of the instrument I would never have otherwise considered. She also hosts a one-of-a-kind list of guzheng teachers around the world. 
 
+Website:
+
 [ChineseZither.net](https://www.chinesezither.net/)
-{{< youtube ujzMHLac404 >}}
-{{< youtube N9URExgPOpA >}}
 
 Interview:
 
