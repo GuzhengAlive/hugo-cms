@@ -29,7 +29,7 @@ collections: # A list of collections the CMS should be able to edit
         name: videos
         widget: list
         fields:
-          - {label: Video Code, name: video-code, widget: string}
+          - {label: YouTube Video Code, name: video-code, widget: string}
   - name: "pages"
     label: "Pages"
     files:
