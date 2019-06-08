@@ -9,7 +9,6 @@
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
-      {{< youtube {{ .video-code }} >}}
     </div>
   </div>
 {{ end }}
