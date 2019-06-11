@@ -2,7 +2,6 @@
 title: Most Popular
 class: Modern
 image: /img/modernguzheng.jpg
-moreimages: []
 ---
 This here is a modern, full-sized guzheng with 21 nylon-coated steel strings, with the bass strings wound in copper. The fixed bridge on the right is straight while the one on the left is curved into an S. The tuning pins are in a compartment at the head of the instrument. The tail is where the strings are anchored.
 
