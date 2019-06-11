@@ -1,5 +1,5 @@
 ---
-title: '"FINGER TRAINING" TOOL - AVOID'
+title: '"Finger Training Tool" - AVOID'
 class: Size
 image: /img/practicescam_compressed.jpg
 ---
