@@ -1,6 +1,6 @@
 ---
 title: 26-String Guzheng
-class: String Variant
+class: String
 image: /img/songboguzheng26strings.jpg
 ---
 This is a 26-string zither from Taiwanese guzheng maker Cai Yuanhong, created under the Songbo brand. Intended for those who want a greater range on their instrument, this one yields an additional pentatonic octave or can be tuned to just shy of four full diatonic octaves.
