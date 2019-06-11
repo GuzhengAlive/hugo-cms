@@ -32,9 +32,8 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/guzhengs-styles" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Class", name: "class", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Class", name: "class", widget: "string"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "MoreImages", name: moreimages, widget: list, fields: [
