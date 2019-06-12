@@ -25,15 +25,6 @@ p {
   max-width: 32rem;
 }
 
-.nav-section-links p{
-  font-size: var(--font-size);
-  margin-bottom:0px;
-}
-.nav-section-links p a{
-  margin-bottom:0px;
-}
-
-
 strong {
   font-weight: var(--bold-font-weight);
 }
