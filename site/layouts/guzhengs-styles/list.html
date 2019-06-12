@@ -3,11 +3,11 @@
 {{ partial "jumbotron" (dict "imageUrl" "/img/guzheng-styles.jpg" "title" "G----g Styles") }}
 
 <div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+  <ul class="">
       {{ range .Pages.GroupByParam "class" }}
       <h2 class="f3">{{ .Key }}</h2> <br>
       {{ range .Pages.ByTitle }}
-          <div class="w-50-ns ph1-ns flex">
+          <div class="w-50-ns ph1-ns flex flex-wrap">
             {{ .Render "li-imagery"}}
           </div>
       {{ end }}
