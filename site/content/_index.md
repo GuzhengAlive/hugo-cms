@@ -2,14 +2,13 @@
 title: Welcome to G-----g A---e
 subtitle: G-----g information in English
 image: /img/china-music-2018-guzheng-display.jpg
+imagecredit: 'Photograph: By Guzheng Alive'
 products:
   - title: Origin
     image: /img/tomb-306-musicians-smithsonian.png
     text: |-
       [GZ in 90 Seconds](guzhengalive.com)
-
       [G-----g's Long History](guzhengalive.com)
-
       [Timelines](https://guzhengalive.com)
   - title: Tuning
     image: /img/two-color-background.png
