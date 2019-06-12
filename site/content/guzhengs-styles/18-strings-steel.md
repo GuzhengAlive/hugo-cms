@@ -1,11 +1,12 @@
 ---
 title: '18 Strings, Steel'
-class: String
+section: String
+order: 4
 image: /img/img_20180316_115903-1-_compressed.jpg
 ---
 As the government pushed for traditional instruments to take on a new form in post-war China, instrument makers added strings to the then common 16. Different changes spread at different speeds through different makers, creating surprising fusions of new and old. Here is one example of such an instrument. Built in the 1980s in Hong Kong this Skylark-brand instrument takes some of the innovations of the preceding decades in their own direction.
 
-First up is its size: at just around 58 inches or 147 cm long, it's about as long as the modern "Travel Sized" guzheng made today. It has 18 strings of steel, with the 4 bass strings wound in copper to emphasize their depth. This is typical of the time, as makers sought to expand the zheng's range and sound qualities. 
+First up is its size: at just around 58 inches or 147 cm long, it's about as long as the modern "Travel Sized" guzheng made today. It has 18 strings of steel, with the 4 bass strings wound in copper to emphasize their depth. This is typical of the time, as makers sought to expand the zheng's range and sound qualities.
 
 The fusion begins in the tuning compartment. Modern guzheng have strings anchored at the tail, running over the bridges, and affixing to tuning pins at the head of the instrument. This instrument reverses that: The head is now the access way for the string anchors, found behind a tight-fitting faceplate. The tail holds the tuning compartment, with tuning pins mounted off-vertical and hidden under a lengthy hinged lid.
 

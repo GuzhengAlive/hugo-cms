@@ -1,6 +1,7 @@
 ---
 title: Butterfly Zheng
-class: Tone
+section: Tone
+order: 1
 image: /img/butterfly2001_compressed.jpg
 ---
 In 1978, Hé Bǎoquán (何寶泉) from the Shanghai Conservatory of Music created the Butterfly Zheng, (dié shì zhēng, 蝶式筝). Still produced today, it has 49 strings in an amazing arrangements of fixed bridges and moveable bridges.

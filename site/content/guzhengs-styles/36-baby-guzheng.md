@@ -1,6 +1,7 @@
 ---
 title: 36" Baby Guzheng
-class: Size
+section: Size
+order: 1
 image: /img/babyguzheng_compressed.jpg
 ---
 Here's an adorable example of a Baby Guzheng, photographs courtesy of Rebecca L. Coming in at just 36 inches (~91cm) this tiny instrument has 21 strings packed onto it for a full 4 octaves of coverage. It's about as wide as a full-sized guzheng, but about 43% shorter. The string spacing is close to that of a full-sized instrument, but the tensions in the strings and overall timbre are affected by its length.

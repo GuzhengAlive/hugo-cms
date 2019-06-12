@@ -1,6 +1,7 @@
 ---
 title: '16-String, Steel, Hidden Tuning'
-class: String
+section: String
+order: 2
 image: /img/16stringguzheng.jpeg
 ---
 The original source and age of this zheng is unknown as its current owner purchased it at anonymous auction, but a flyer in its tuning pin compartment advertised a concert in Taipei in 1988.

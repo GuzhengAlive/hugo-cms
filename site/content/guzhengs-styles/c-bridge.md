@@ -1,6 +1,7 @@
 ---
 title: C-Bridge
-class: Bridge
+section: Bridge
+order: 1
 image: /img/18-string-c-bridge-guzheng-from-jin-yun_compressed.jpg
 ---
 This is an 18 Steel string guzheng from instrument brand JinYun. It features straight steel and wound copper strings and that sweeping C-Bridge at the tail. I have seen a similar, 21 and 23-string instruments made by the same maker with nylon strings.

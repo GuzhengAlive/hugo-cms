@@ -1,6 +1,7 @@
 ---
 title: '18 Strings, Steel, Custom'
-class: String
+section: String
+order: 3
 image: /img/img_20180316_120533_compressed.jpg
 ---
 As the government pushed for traditional instruments to take on a new form in post-war China, instrument makers added strings to the then common 16. Here is one example of such an instrument. Built in the 1980s in Hong Kong at the request of the current owner, this slightly miniaturized guzheng is a bit different from the 21-stringers you'll see today. First up is its size: at just 46 inches or 116cm long, it falls far shorter than the common ~63 inches (160cm) of the full size 21 stringers of today. That and the foreshortened head compartment were intentional, as the commissioner requested something that was easier to travel with. The tuning pins are enclosed in the head compartment, another modern touch.
@@ -13,6 +14,6 @@ The instrument has 18 steel strings, adding two bass strings beyond the range of
 
 2) The bridges have flat-mounted tips. Again looking at modern bridges, most today have inset tip materials, commonly in rectangular or triangular shapes. These bridges have tips that span the full width of the bridge. (They also have holes drilled for a string and tassels, but those have been removed.)
 
-3) The entire instrument is finished in a faux-wood veneer. This together with the combination of modern and older elements (18 strings but steel, tuning in head compartment) suggest this instrument was designed to be a modern take on the instrument. Faux-wood veneers have largely gone out of style, but at the time, I'm betting this was quite the neat creation. 
+3) The entire instrument is finished in a faux-wood veneer. This together with the combination of modern and older elements (18 strings but steel, tuning in head compartment) suggest this instrument was designed to be a modern take on the instrument. Faux-wood veneers have largely gone out of style, but at the time, I'm betting this was quite the neat creation.
 
 Many thanks to Mr. Tang of Washington for allowing me time with this instrument.

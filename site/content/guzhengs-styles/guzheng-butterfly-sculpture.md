@@ -1,6 +1,7 @@
 ---
 title: Guzheng Butterfly Sculpture
-class: Other
+section: Other
+order: 2
 image: /img/dunhuang-4xbutterfly-shanghai-music-2008_compressed.jpg
 ---
 The 4-By-Butterfly: for the guzheng ensemble that wants to add that extra flair.

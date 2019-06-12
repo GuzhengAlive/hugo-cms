@@ -1,6 +1,7 @@
 ---
 title: 19th Century 16-String Chaozhou-style Zheng
-class: Historical
+section: Historical
+order: 3
 image: /img/mfa-dan-style-zither_compressed.jpg
 ---
 From the Museum of Fine Arts in Boston, Massachusetts, USA comes this wonderful image.

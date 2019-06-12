@@ -1,6 +1,7 @@
 ---
 title: '"Finger Training Tool" - AVOID'
-class: Size
+section: Size
+order: 2
 image: /img/practicescam_compressed.jpg
 ---
 This is something you should not buy. It and products like it are advertised as 'Finger Training' or 'Strengthening' tools. In reality they are a waste of money. The concept is fine: create something that mimics a small section of the guzheng so a student can practice technique when away from their instrument. The interpretation is heavily flawed. Three issues hit you the second you touch it:
@@ -9,7 +10,7 @@ This is something you should not buy. It and products like it are advertised as 
 
 2: The practice device is too thin to be played directly on a table. Sitting in the same chair you'd normally play your instrument on, you'll find you are leaning down or hunching over to play this.
 
-3: The strings are all the same height from the table. In reality a guzheng has a curved surface, with strings varying as much as a half inch across an octave (~1.25cm). This may not seem like a lot, but as you move up and down this tool you'll find your hand floating off above it as you try to strike strings that aren't there. 
+3: The strings are all the same height from the table. In reality a guzheng has a curved surface, with strings varying as much as a half inch across an octave (~1.25cm). This may not seem like a lot, but as you move up and down this tool you'll find your hand floating off above it as you try to strike strings that aren't there.
 
 Perhaps these issues could be addressed with some clever engineering or by placing this tool on a slanted book on a table. But then we get into two other issues:
 

@@ -1,6 +1,7 @@
 ---
 title: Modulated Zheng 1972-74
-class: Modulated
+section: Modulated
+order: 5
 image: /img/yingkou-modulated-han-mei-2013_compressed.jpg
 ---
 In 1972 Zhāng Kūn's factory released another modulated zheng, this one called Model 72. It had a somewhat flatter soundboard which made it easier to play, and featured a simpler modulating mechanism.

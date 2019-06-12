@@ -1,6 +1,7 @@
 ---
 title: 36-String Guzheng
-class: String
+section: String
+order: 6
 image: /img/36-string-guzheng_compressed.jpg
 ---
 Are 26 too-few strings? Then you are in luck, because one maker produced 36-string guzhengs! I don't have too much information on this, other than to say, it is huge.

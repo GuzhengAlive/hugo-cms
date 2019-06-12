@@ -1,6 +1,7 @@
 ---
 title: Piano Zheng
-class: Other
+section: Other
+order: 3
 image: /img/musicchina2013-pianozheng.jpg
 ---
 Don't have enough space for a grand piano but still desire a beautifully impressive instrument? Look no further because here is the one-of-a-kind piano zheng! Well, really, it's a guzheng that sort of... fell into an empty piano... but it's still quite a sight to see!
