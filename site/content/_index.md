@@ -9,9 +9,9 @@ products:
     text: |-
       [GZ in 90 Seconds](guzhengalive.com)
 
-      [G-----g's Long History](guzhengalive.com)
-
       [Timelines](https://guzhengalive.com)
+
+      [The Story of G-----g's Long History](guzhengalive.com)
   - title: Tuning
     image: /img/two-color-background.png
     text: |-
