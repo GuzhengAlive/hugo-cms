@@ -5,7 +5,7 @@
 <div class="mw7 center">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range .Pages.GroupByParam "class" }}
-      <h3>{{ .Key }}</h3>
+      <h2 class="f3">{{ .Key }}</h2> <br>
       {{ range .Pages.ByTitle }}
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "li-imagery"}}
