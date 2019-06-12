@@ -27,6 +27,7 @@ p {
 
 .nav-section-links p{
   font-size: var(--font-size);
+  margin-bottom:0px;
 }
 .nav-section-links p a{
   margin-bottom:0px;
