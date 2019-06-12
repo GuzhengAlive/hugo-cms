@@ -4,10 +4,10 @@
 
 <div class="mw7 center">
   <ul class="">
-      {{ range .Pages.GroupByParam "class" }}
+      {{ range .Pages.GroupByParam "section" }}
       <h2 class="f3">{{ .Key }}</h2>
       <div class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range .Pages.ByTitle }}
+      {{ range .Pages.ByParam "order" }}
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "li-imagery"}}
           </div>
