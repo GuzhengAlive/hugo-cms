@@ -1,7 +1,7 @@
 ---
-title: Travel Sized - 53"
+title: 53" - Travel Sized
 section: 4 - Size
-order: 4
+order: '1'
 image: /img/soundofchinatravelguzheng_compressed.jpg
 ---
 Let's take a look at a Travel-Sized guzheng. This particular one is a 53" Sound of China-brand guzheng made in China and sold in the US. Its frame is listed as generic "rosewood" which means it could be any number of woods. The bridges are nonstandard; rather than the rosewood bridges sold with the instrument, this particular instrument has had its bridges swapped for African Blackwood bridges.
