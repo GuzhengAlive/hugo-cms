@@ -1,7 +1,7 @@
 ---
 title: 8" "Finger Training Tool" - AVOID
 section: 4 - Size
-order: 2
+order: '4'
 image: /img/practicescam_compressed.jpg
 ---
 This is something you should not buy. It and products like it are advertised as 'Finger Training' or 'Strengthening' tools. In reality they are a waste of money. The concept is fine: create something that mimics a small section of the guzheng so a student can practice technique when away from their instrument. The interpretation is heavily flawed. Three issues hit you the second you touch it:
