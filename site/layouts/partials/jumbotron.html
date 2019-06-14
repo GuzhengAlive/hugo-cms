@@ -18,6 +18,6 @@
 </div>
 {{ if .imagecredit }}
 <p class="f6 lh-title mb3">
-  {{.imagecredit}}
+  {{.imagecredit | markdownify}}
 </p>
 {{ end }}
