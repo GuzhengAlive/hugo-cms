@@ -1,5 +1,5 @@
 ---
-title: '"Finger Training Tool" - AVOID'
+title: 8" "Finger Training Tool" - AVOID
 section: 4 - Size
 order: 2
 image: /img/practicescam_compressed.jpg
