@@ -1,5 +1,5 @@
 ---
-title: Travel Sized - 53"
+title: 53" - Travel Sized
 section: 4 - Size
 order: 4
 image: /img/soundofchinatravelguzheng_compressed.jpg
