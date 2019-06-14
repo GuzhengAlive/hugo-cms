@@ -1,6 +1,6 @@
 ---
 title: 19th Century 14-String Zheng
-section: Historical
+section: 7 - Historical
 order: 2
 image: /img/14-string-dutch-zither.jpeg
 ---

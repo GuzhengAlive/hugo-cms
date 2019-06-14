@@ -1,6 +1,6 @@
 ---
 title: '16-String, Steel, Exposed Tuning'
-section: String
+section: 3 - String Count
 order: 1
 image: /img/taiwanesezhengexposedtuning.jpg
 ---

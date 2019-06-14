@@ -1,6 +1,6 @@
 ---
 title: 26-String Guzheng
-section: String
+section: 3 - String Count
 order: 5
 image: /img/songboguzheng26strings.jpg
 ---

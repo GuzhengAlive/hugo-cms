@@ -1,6 +1,6 @@
 ---
 title: 1972 44-String Pedal-Modulated Zheng
-section: Modulated
+section: 6 - Modulated
 order: 2
 image: /img/1972-44-diatonic-han-mei_compressed.jpg
 ---

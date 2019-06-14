@@ -1,6 +1,6 @@
 ---
 title: Piano Zheng
-section: Other
+section: 8 - Other
 order: 3
 image: /img/musicchina2013-pianozheng.jpg
 ---

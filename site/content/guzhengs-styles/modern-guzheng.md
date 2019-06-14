@@ -1,6 +1,6 @@
 ---
 title: Most Popular
-section: Modern
+section: 1 - Modern
 order: 1
 image: /img/modernguzheng.jpg
 ---

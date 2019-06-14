@@ -1,6 +1,6 @@
 ---
 title: 36-String Guzheng
-section: String
+section: 3 - String Count
 order: 6
 image: /img/36-string-guzheng_compressed.jpg
 ---

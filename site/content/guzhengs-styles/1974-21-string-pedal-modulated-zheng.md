@@ -1,6 +1,6 @@
 ---
 title: 1974 21-String Pedal-Modulated Zheng
-section: Modulated
+section: 6 - Modulated
 order: 3
 image: /img/1974-pedal-zheng-han-mei_compressed.jpg
 ---

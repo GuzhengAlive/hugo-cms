@@ -1,6 +1,6 @@
 ---
 title: C-Bridge
-section: Bridge
+section: 2 - Bridge
 order: 1
 image: /img/18-string-c-bridge-guzheng-from-jin-yun_compressed.jpg
 ---

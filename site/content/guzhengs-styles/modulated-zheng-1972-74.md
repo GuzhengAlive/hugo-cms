@@ -1,6 +1,6 @@
 ---
-title: Modulated Zheng 1972-74
-section: Modulated
+title: 1972-74 Modulated Zheng
+section: 6 - Modulated
 order: 5
 image: /img/yingkou-modulated-han-mei-2013_compressed.jpg
 ---

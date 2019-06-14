@@ -1,6 +1,6 @@
 ---
-title: Modulated Zheng 1963-65
-section: Modulated
+title: 1963-65 Modulated Zheng
+section: 6 - Modulated
 order: 4
 image: /img/model-65-zheng-han-mei-2013_compressed.jpg
 ---

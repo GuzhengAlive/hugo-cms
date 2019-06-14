@@ -1,6 +1,6 @@
 ---
 title: '18 Strings, Steel'
-section: String
+section: 3 - String Count
 order: 4
 image: /img/img_20180316_115903-1-_compressed.jpg
 ---

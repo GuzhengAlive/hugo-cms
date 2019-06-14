@@ -1,6 +1,6 @@
 ---
-title: Butterfly Zheng
-section: Tone
+title: Butterfly Zheng - 1978
+section: 5 - Range
 order: 1
 image: /img/butterfly2001_compressed.jpg
 ---

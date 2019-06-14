@@ -1,6 +1,6 @@
 ---
 title: 19th Century 16-String Chaozhou-style Zheng
-section: Historical
+section: 7 - Historical
 order: 3
 image: /img/mfa-dan-style-zither_compressed.jpg
 ---

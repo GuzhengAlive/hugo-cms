@@ -1,6 +1,6 @@
 ---
 title: 36" Baby Guzheng
-section: Size
+section: 4 - Size
 order: 1
 image: /img/babyguzheng_compressed.jpg
 ---

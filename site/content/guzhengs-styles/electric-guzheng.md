@@ -1,6 +1,6 @@
 ---
 title: Electric Guzheng!
-section: Other
+section: 8 - Other
 order: 1
 image: /img/electricgzcm2015_compressed.jpg
 ---

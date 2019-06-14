@@ -1,6 +1,6 @@
 ---
 title: '"Finger Training Tool" - AVOID'
-section: Size
+section: 4 - Size
 order: 2
 image: /img/practicescam_compressed.jpg
 ---

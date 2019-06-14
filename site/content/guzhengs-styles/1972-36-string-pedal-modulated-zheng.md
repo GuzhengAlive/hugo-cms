@@ -1,6 +1,6 @@
 ---
 title: 1972 36-String Pedal-Modulated Zheng
-section: Modulated
+section: 6 - Modulated
 order: 1
 image: /img/pedal-zheng_compressed.jpg
 ---

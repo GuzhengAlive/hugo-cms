@@ -1,6 +1,6 @@
 ---
 title: '16-String, Steel, Hidden Tuning'
-section: String
+section: 3 - String Count
 order: 2
 image: /img/16stringguzheng.jpeg
 ---

@@ -1,6 +1,6 @@
 ---
 title: Guzheng Butterfly Sculpture
-section: Other
+section: 8 - Other
 order: 2
 image: /img/dunhuang-4xbutterfly-shanghai-music-2008_compressed.jpg
 ---
