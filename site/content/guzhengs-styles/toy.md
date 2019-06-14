@@ -1,5 +1,5 @@
 ---
-title: Toy - 12-24"
+title: 12-24" - Toy
 section: 4 - Size
 order: 2
 ---
