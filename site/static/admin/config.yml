@@ -127,3 +127,11 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
               - {label: Caption, name: caption, widget: text}
+      - file: "site/content/guzheng-in-90-seconds/_index.md"
+        label: "Guzheng in 90 Seconds"
+        name: "guzhengin90"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required:false}
+          - {label: Sections, name: section, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Body, name: body, widget: markdown}]}
