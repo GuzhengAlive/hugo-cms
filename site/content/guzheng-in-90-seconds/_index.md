@@ -1,7 +1,7 @@
 ---
 title: GZA in 90 Seconds
 image: /img/guzheng-top_compressed.jpg
-section:
+sections:
   - heading: The Name
     text: >-
       Guzheng is the romanization of 古箏. 古 (gǔ) means old or ancient. 筝 (zhēng)
