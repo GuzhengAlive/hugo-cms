@@ -3,13 +3,13 @@ title: G----g in 90 Seconds
 image: /img/guzheng-top_compressed.jpg
 image_credit: 'Credit: GZA'
 section:
-  - content: >-
+  - text: >-
       Guzheng is the romanization of 古箏. 古 (gǔ) means old or ancient. 筝 (zhēng)
       refers to a zither-type instrument, something with strings stretched
       between two bridges. The two together, "guzheng", means a zither with
       fixed bridges on both ends and moveable bridges in the center.
-  title: The Name
-  - content: >-
+  heading: The Name
+  - text: >-
       The guzheng traces its roots to China [before the 6th century
       BCE](/guzheng-timelines). The oldest zheng found so far dates to about 598
       BCE. It was found in Guìxī county (贵溪) in Jiāngxī province (江西) in
@@ -18,19 +18,19 @@ section:
       Scholars debate how guzheng came about. Some say it was based on a zither
       made out of a single board, some say it was based on one made from bamboo,
       and others say it developed independently.
-  title: The Origin
-  - content: >-
+  heading: The Origin
+  - text: >-
       The typical guzheng you will see is based on a 1965 design patented by the
       Dūnhuáng company (敦煌). It is broad enough for 21 strings and the bridge at
       the tail is in the shape of an “S”. It is the most popular version in part
       because of the elegant utility of its design.
-  title: The Shape
-  - content: >-
+  heading: The Shape
+  - text: >-
       Guzheng are commonly tuned to the pentatonic scale. The two most common
       keys are The key of D: ABDEF# and the key of G: ABDEG. C and F notes are
       achieved by pressing a B or G(or F#) string when it is struck.
-  title: The Sound
-  - content: >-
+  heading: The Sound
+  - text: >-
       Most modern guzheng have 21 or more strings but [16 and 18-string guzheng
       are still made](/guzhengs-through-time). 100 years ago instruments with 16
       metal strings were the most popular. Nylon-coated metal strings were
@@ -39,10 +39,10 @@ section:
       You can find zithers today with anything from [12-26
       strings](/not-quite-guzheng-varieties). Chinese zithers as a category have
       ranged from 5 to 50 strings and used to be strung with silk.
-  title: The Strings
-  - content: .
-    title: Have more than 90 seconds?
-  - content: >-
+  heading: The Strings
+  - text: .
+    heading: Have more than 90 seconds?
+  - text: >-
       Chinese Instruments are classified by the material they were made of. For
       those made of multiple materials the sound-producing material seems to be
       what ruled.  The categories are:
@@ -59,8 +59,8 @@ section:
       [Yángqín](https://en.wikipedia.org/wiki/Yangqin) (揚琴) which is similar to
       a hammer dulcimer. An example of a bowed instrument is the
       [èrhú](https://en.wikipedia.org/wiki/Erhu) (二胡).
-  title: Eastern Classification
-  - content: >-
+  heading: Eastern Classification
+  - text: >-
       A guzheng is considered a heterochord half-tube zither in the chordophone
       category by
       [Hornbostel-Sachs](https://en.wikipedia.org/wiki/Hornbostel-Sachs), an
@@ -75,8 +75,8 @@ section:
 
       There are zithers all around the world. The piano is a zither! It's a
       "True Board Zither with Resonator Box".
-  title: Western Classification
-  - content: >-
+  heading: Western Classification
+  - text: >-
       The historic name for this type of instrument is “zheng”. Various variants
       have been made and named around Asia. These are often labeled
       “(word)-zheng”. Examples: Butterfly Zheng, Multitonic Zheng, Centipede
@@ -86,8 +86,8 @@ section:
       character for ancient or old to the name gave it more prestige. Yet… the
       designs were updated significantly just 60 years ago. The instrument is
       ancient but it is also modern.
-  title: Fun With Names
-  - content: >-
+  heading: Fun With Names
+  - text: >-
       Try not to make these mistakes when describing the guzheng to others. I'm
       ashamed to say I've already made all of them. Please be better than me!
 
@@ -144,5 +144,5 @@ section:
       music? Of course not. What about the woodwinds, the percussion, or the
       horns? No, the violin is part of a much larger picture just like the
       guzheng.
-  title: Common Confusions
+  heading: Common Confusions
 ---
