@@ -53,10 +53,8 @@ sections:
       those made of multiple materials the sound-producing material seems to be
       what ruled.  The categories are:
 
-
       Silk (絲 sī, simplified: 丝), Bamboo (竹, zhú), Wood (木, mù), Stone (石 shí),
       Metal (金, jīn), Clay (土, tǔ or 匏, páo), and Skin/hide (革, gé).
-
 
       The guzheng falls into the silk category because its strings were once
       made of silk. The silk category is further divided into those instruments
@@ -100,7 +98,6 @@ sections:
       Try not to make these mistakes when describing the guzheng to others. I'm
       ashamed to say I've already made all of them. Please be better than me!
 
-
       1) The guzheng if often described by westerners as a Chinese harp. There
       already is a Chinese harp: the
       [Kōnghóu](https://www.facebook.com/whc2017/posts/1848578852022441)! It's
@@ -108,14 +105,12 @@ sections:
       resonating chamber that is perpendicular to the strings, while a zither
       has a soundboard that is parallel to its strings.
 
-
       2) The instrument is not gender-restricted. Both men and women have played
       and mastered it for centuries. Gender confusions go both ways; in modern
       times it is easy to assume the instrument is for women as they are most
       commonly featured in photos. Yet  at one point in the early 1900s some in
       China said the instrument was for men only. Let’s not be silly. It’s for
       everyone.
-
 
       3) The guzheng is not "The Piano of China" nor is it "The most popular
       instrument in China". That's a lazy comparison. A, the piano is the piano
