@@ -138,5 +138,5 @@ collections: # A list of collections the CMS should be able to edit
             name: section
             widget: list
             fields:
-              - {label: Heading, name: heading, widget: string}
+              - {label: Section Title, name: title, widget: string}
               - {label: Body, name: body, widget: markdown}
