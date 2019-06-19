@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
-<div class="center">
+<div class="center mw7">
 {{ range $element := .Params.sections }}
 	{{ partial "jump-to-menu" $element }}
 {{end}}
