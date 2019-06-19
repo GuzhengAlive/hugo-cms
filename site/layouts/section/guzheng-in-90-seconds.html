@@ -1,9 +1,9 @@
 {{ define "main" }}
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 	{{ range $element := .Params.sections }}
-		{{ partial "basic-sections" .Heading }}
-		{{ partial "basic-sections" .sections.Heading }}
-		{{ partial "basic-sections" .Params.sections.Heading }}
-		{{ partial "basic-sections" .Params.sections.text }}
+		{{ .Heading }}
+		{{ .sections.Heading }}
+		{{ .Params.sections.Heading }}
+		{{ .Params.sections.text }}
 	{{end}}
 {{ end }}
