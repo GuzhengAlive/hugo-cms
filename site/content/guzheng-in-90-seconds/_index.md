@@ -89,6 +89,7 @@ sections:
       Try not to make these mistakes when describing the guzheng to others. I'm
       ashamed to say I've already made all of them. Please be better than me!
 
+
       1) The guzheng if often described by westerners as a Chinese harp. There
       already is a Chinese harp: the
       [Kōnghóu](https://www.facebook.com/whc2017/posts/1848578852022441)! It's
@@ -96,12 +97,14 @@ sections:
       resonating chamber that is perpendicular to the strings, while a zither
       has a soundboard that is parallel to its strings.
 
+
       2) The instrument is not gender-restricted. Both men and women have played
       and mastered it for centuries. Gender confusions go both ways; in modern
       times it is easy to assume the instrument is for women as they are most
       commonly featured in photos. Yet  at one point in the early 1900s some in
       China said the instrument was for men only. Let’s not be silly. It’s for
       everyone.
+
 
       3) The guzheng is not "The Piano of China" nor is it "The most popular
       instrument in China". That's a lazy comparison. A, the piano is the piano
@@ -120,6 +123,7 @@ sections:
       popular instrument in
       America](http://www.atlasobscura.com/articles/why-every-kid-in-america-learns-to-play-the-recorder).
       It's better to steer clear of that absolute.
+
 
       4) Guzheng music is not "Asian" music. "Asia" is a region of 4.4 BILLION
       people. If you ever say "All Asian people \_\_\_\__" you're wrong. If you
@@ -140,4 +144,3 @@ sections:
       horns? No, the violin is part of a much larger picture just like the
       guzheng.
 ---
-
