@@ -3,4 +3,5 @@
 	{{ range $element := .Params.sections }}
 		{{ partial "basic-sections" $element }}
 	{{end}}
+	{{ partial "basic-sections" .Params.sections}}
 {{ end }}
