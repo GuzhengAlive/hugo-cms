@@ -1,3 +1,4 @@
 <div class="di">
-<a href="#{{.anchor}}">{{.heading}}</a> |
+	{{ $anchor := replaceRE "([^ ]+)" "$1" .heading }}
+<a href="#{{$anchor}}">{{.heading}}</a> |
 </div>
