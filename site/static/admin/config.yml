@@ -47,7 +47,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Image_Credit, name: image_credit, widget: markdown, required:false}
+          - {label: Image_Credit, name: image_credit, widget: markdown, required: false}
           - {label: "Products", name: products, widget: list, fields: [
               {label: "Title", name: "title", widget: "text"},
               {label: "Image", name: "image", widget: "image"},
@@ -75,7 +75,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Image_Credit, name: image_credit, widget: markdown, required:false}
+          - {label: Image_Credit, name: image_credit, widget: markdown, required: false}
           - {label: Heading, name: heading, widget: string}
           - {label: Description, name: description, widget: string}
           - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
@@ -89,7 +89,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Image_Credit, name: image_credit, widget: markdown, required:false}
+          - {label: Image_Credit, name: image_credit, widget: markdown, required: false}
           - label: Values
             name: values
             widget: list
@@ -103,7 +103,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Image_Credit, name: image_credit, widget: markdown, required:false}
+          - {label: Image_Credit, name: image_credit, widget: markdown, required: false}
           - label: Blogs
             name: blogs
             widget: list
@@ -118,7 +118,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Image Credit, name: imagecredit, widget: markdown, required:false}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
           - label: Items
             name: items
             widget: list
@@ -133,10 +133,10 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Image Credit, name: imagecredit, widget: markdown, required:false}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
           - label: sections
             name: sections
             widget: list
             fields:
-              - {label: Heading, name: heading, widget: string, required:false}
-              - {label: Text, name: text, widget: markdown, required:false}
+              - {label: Heading, name: heading, widget: string, required: false}
+              - {label: Text, name: text, widget: markdown, required: false}
