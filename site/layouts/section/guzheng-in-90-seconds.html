@@ -2,6 +2,5 @@
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 	{{ range $element := .Params.sections }}
 		{{ partial "basic-sections" $element }}
-		{{ partial "headline-hash" $element }}
 	{{end}}
 {{ end }}
