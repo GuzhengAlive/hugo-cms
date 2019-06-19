@@ -1,5 +1,8 @@
 {{ define "main" }}
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+{{ range $element := .Params.sections }}
+	{{ partial "jump-to-menu" $element }}
+{{end}}
 	{{ range $element := .Params.sections }}
 		{{ partial "basic-sections" $element }}
 	{{end}}
