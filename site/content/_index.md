@@ -110,7 +110,7 @@ products:
   - title: Types
     image: /img/verticalzhengssmall.jpg
     text: |-
-      G-----g Types
+      [G-----g Types](/guzhengs-types)
 
       Similar Instruments
 
