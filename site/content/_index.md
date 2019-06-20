@@ -9,9 +9,9 @@ products:
     text: |-
       [GZ in 90 Seconds](/guzheng-in-90-seconds)
 
-      [Timelines](https://guzhengalive.com)
+      Timelines
 
-      [The Story of G-----g's Long History](guzhengalive.com)
+      The Story of G-----g's Long History
   - title: Tuning
     image: /img/two-color-background.png
     text: |-
@@ -57,7 +57,7 @@ products:
   - title: Accessories
     image: /img/nail-notches_compressed.jpg
     text: |-
-      Fingerpicks
+      [Fingerpicks](/finger-picks)
 
       Fingerpick Materials
 
@@ -98,9 +98,9 @@ products:
 
       Bands
 
-      Blogs
+      [Blogs](/blogs-and-projects)
 
-      Experts
+      [Experts](/experts)
 
       Forum
 
