@@ -98,7 +98,7 @@ products:
 
       Bands
 
-      [Blogs](/blogs-and-projects)
+      [Blogs](/blogs-and-private-works)
 
       [Experts](/experts)
 
