@@ -3,7 +3,7 @@ title: Welcome to G-----g A---e
 subtitle: G-----g information in English
 image: /img/china-music-2018-guzheng-display.jpg
 image_credit: 'Credit: GZA'
-products:
+groups:
   - title: Origin
     image: /img/tomb-306-musicians-smithsonian.png
     text: |-
@@ -128,4 +128,3 @@ products:
 
       Legal Issues
 ---
-
