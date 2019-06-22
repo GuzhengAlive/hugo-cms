@@ -27,7 +27,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Videos", name: videos, widget: list, fields: [
           {label: "Youtube Video Code", name: "youtubecode", widget: "string"}]}
-  - name: "guzheng-style" # Used in routes, ie.: /admin/collections/:slug/edit
+  - name: "guzhengs-style" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Guzheng Style" # Used in the UI, ie.: "New Post"
     folder: "site/content/guzhengs-styles" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
