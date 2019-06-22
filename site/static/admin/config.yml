@@ -119,8 +119,8 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
-          - label: Items
-            name: items
+          - label: Sections
+            name: sections
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
@@ -134,7 +134,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
-          - label: sections
+          - label: Sections
             name: sections
             widget: list
             fields:

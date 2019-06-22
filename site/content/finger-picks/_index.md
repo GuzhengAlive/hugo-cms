@@ -1,7 +1,7 @@
 ---
 title: Finger Picks
 image: /img/white-background.jpeg
-items:
+sections:
   - caption: Example nail length from small to large.
     heading: Size
     imageUrl: /img/nail-sizes.jpg
@@ -13,16 +13,16 @@ items:
       certain heights. In general:
 
 
-      **Small  (小号, xiǎo hào):** 
+      **Small  (小号, xiǎo hào):**
 
 
-      Who: children below the age of 9 or under 1.3m tall (51 inches, 4’3”) 
+      Who: children below the age of 9 or under 1.3m tall (51 inches, 4’3”)
 
 
       Nail Lengths: Finger:22-23mm Thumb: 24-25mm
 
 
-      **Medium (中号, zhōng hào):** 
+      **Medium (中号, zhōng hào):**
 
 
       Who: adolescents between 10-15 or between 1.3 and 1.6m tall (51-63 inches)
@@ -76,7 +76,7 @@ items:
     imageUrl: /img/nail-indents.jpg
     text: >-
       Nails can be shaped to better fit the finger. Each shape comes with
-      benefits and costs. 
+      benefits and costs.
 
 
       Flat - Easy to make and cheaper to buy and store, but offer less control.
@@ -115,7 +115,7 @@ items:
       Thickness is measured in millimeters and can be anywhere from less than
       1.5mm to more than 3.5mm.  Flat nails tend to be on the thin side while
       tapered nails tend to be thicker. From [one
-      recommendation](https://www.xiaohongshu.com/discovery/item/5abbaa3e19f71621b842940a?_at=4094af468c2e9e3c03028a90cb5facedce470): 
+      recommendation](https://www.xiaohongshu.com/discovery/item/5abbaa3e19f71621b842940a?_at=4094af468c2e9e3c03028a90cb5facedce470):
 
 
       Age < 7 years, grades 1-3: 1.5mm
@@ -146,7 +146,7 @@ items:
       is the angle on the point of the nail? How quickly does the thickness of
       the nail decrease to nothing? There is a general practice but individual
       nails vary. If you find yourself excelling with one set of nails and
-      struggling with another, you’re not crazy. Small differences do matter. 
+      struggling with another, you’re not crazy. Small differences do matter.
 
 
       On the thumb angle there is a newer style that is gaining popularity
@@ -154,4 +154,3 @@ items:
       looks like a crescent moon. No word on how that affects playing or their
       sound.
 ---
-
