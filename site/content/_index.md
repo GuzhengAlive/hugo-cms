@@ -110,7 +110,7 @@ groups:
   - title: Types
     image: /img/verticalzhengssmall.jpg
     text: |-
-      [G-----g Types](/guzhengs-types)
+      [G-----g Styles](/guzhengs-styles)
 
       Similar Instruments
 
@@ -128,3 +128,4 @@ groups:
 
       Legal Issues
 ---
+
