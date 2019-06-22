@@ -103,6 +103,32 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/about-gza/_index.md"
+        label: "About GZA"
+        name: "aboutgza"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
+      - file: "site/content/bibliography/_index.md"
+        label: "Bibliography"
+        name: "bibliography"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
       - file: "site/content/blogs-and-private-works/_index.md"
         label: "Blogs and Private Works Page"
         name: "blogs-and-private-works"
@@ -118,6 +144,84 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
               - {label: Link, name: link, widget: string}
+      - file: "site/content/buy-new/_index.md"
+        label: "Buy New"
+        name: "buynew"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
+      - file: "site/content/buy-used-guzheng/_index.md"
+        label: "Buy Used Guzheng"
+        name: "buyusedguzheng"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
+      - file: "site/content/change-log/_index.md"
+        label: "Change Log"
+        name: "changelog"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
+      - file: "site/content/cost-of-ownership/_index.md"
+        label: "Cost Of Ownership"
+        name: "costofownership"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
+      - file: "site/content/cypher-notation/_index.md"
+        label: "Cypher Notation"
+        name: "cyphernotation"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
+      - file: "site/content/digitizing-scores/_index.md"
+        label: "Digitizing Scores"
+        name: "digitizingscores"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
       - file: "site/content/finger-picks/_index.md"
         label: "Finger Picks Page"
         name: "finger-picks"
@@ -133,6 +237,45 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
               - {label: Caption, name: caption, widget: text}
+      - file: "site/content/further-reading/_index.md"
+        label: "Further Reading"
+        name: "furtherreading"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
+      - file: "site/content/general-mentions/_index.md"
+        label: "General Mentions"
+        name: "generalmentions"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
+      - file: "site/content/guzheng-care/_index.md"
+        label: "Guzheng Care"
+        name: "guzhengcare"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
       - file: "site/content/guzheng-in-90-seconds/_index.md"
         label: "Guzheng in 90 Seconds"
         name: "guzhengin90"
