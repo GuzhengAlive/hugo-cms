@@ -52,10 +52,13 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Title", name: "title", widget: "text"},
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "markdown"}]}
-          - {label: "Sections", name: "sections", widget: list, fields: [
-              {label: "Heading", name: "heading", widget: string, required: false}
-              {label: "Anchor", name: "anchor", widget: string, required: false}
-              {label: "Text", name: "text", widget: markdown, required: false}]}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string, required: false}
+              - {label: Anchor, name: anchor, widget: string, required: false}
+              - {label: Text, name: text, widget: markdown, required: false}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
