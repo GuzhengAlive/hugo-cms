@@ -2,13 +2,13 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 <div class="tc mw-100">
-{{ range $element := .Params.items }}
+{{ range $element := .Params.sections }}
 	{{ partial "jump-to-menu" $element }}
 {{end}}
 </div>
 <div class="mw7 center ph3 pt4">
 
-  {{ range $index, $element := .Params.items }}
+  {{ range $index, $element := .Params.sections }}
   {{ partial "media-block-1-to-3" $element }}
   {{end}}
 
