@@ -1,5 +1,5 @@
 ---
-title: Buy New
+title: Guzheng Buying Guide
 image: /img/white-background.jpeg
 sections:
   - text: >-
