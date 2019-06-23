@@ -6,11 +6,21 @@ sections:
   - text: >-
       Guzheng Alive is a living project. Sections are modified frequently with
       new sections added every month based on information availability,
-      community requests, and author interest. Feel free to request topics! My
-      biggest hurdle, currently, is how to showcase all of this information. The
-      most challenging topic to present is the actual music. It is difficult to
-      make it appealing without being overwhelming. Let me know if you have any
-      ideas!
+      community requests, and author interest. Feel free to request topics! 
+
+
+      The Change Log does not represent work that is ongoing; items only appear
+      once they are complete. This leads to some fun artifacts like the only
+      line for October 2018 being an expansion of the repertoire. The effort
+      that took, including an actual trip to China, scanning sources, character
+      recognition, proofing, cross referencing, and programming is all contained
+      in that single line.
+
+
+      My biggest hurdle, currently, is how to showcase all of this information.
+      The most challenging topic to present is the actual music. It is difficult
+      to make it appealing without being overwhelming. Let me know if you have
+      any ideas!
   - heading: Future
     text: >-
       * Examples and explanations of Accessories
