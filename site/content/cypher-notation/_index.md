@@ -23,7 +23,7 @@ sections:
       Musical reforms in the mid 20th century were heavily influenced by the
       idea that the music and instruments of China needed to compete with the
       music and instruments of Europe. This led to the formation of specialty
-      schools and a desire for standardization. 
+      schools and a desire for standardization.
 
 
 
@@ -39,7 +39,7 @@ sections:
       which ornamentations to add.
   - heading: The Notes
     text: >-
-      ![Numeric Notation Scale](/img/notation-scale.png "Do, Re, Mi, Fa, So, La,
+      ![Numeric Notation Scale](/img/notation-scale.png caption="Do, Re, Mi, Fa, So, La,
       Ti, and rest in Cypher Notation.")
 
 
@@ -47,7 +47,7 @@ sections:
       represent notes. Each number represents a note in a key. Unlike staff
       notation, an individual number could represent any pitch. The player needs
       to know the key the music is in to identify which note, which pitch, is
-      represented by which number. 
+      represented by which number.
 
 
 
@@ -124,7 +124,7 @@ sections:
       dashes that replace every subsequent note until you reach the desired
       duration. A whole note is indicated by a note followed by three dashes. A
       dotted half note is a note followed by two dashes and a half note is
-      indicated by a note followed by one dash. 
+      indicated by a note followed by one dash.
 
 
       For those familiar with staff notation or western music more broadly you
@@ -170,4 +170,3 @@ sections:
       understand how they should be playing particular notes or sections.
       There's a lot to dig into so go on over and get reading!
 ---
-
