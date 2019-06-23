@@ -1,17 +1,17 @@
 ---
-title: Welcome to G-----g A---e
-subtitle: G-----g information in English
+title: Welcome to Guzheng Alive
+subtitle: Guzheng information in English
 image: /img/china-music-2018-guzheng-display.jpg
 image_credit: 'Credit: GZA'
 groups:
   - title: Origin
     image: /img/tomb-306-musicians-smithsonian.png
     text: |-
-      [GZ in 90 Seconds](/guzheng-in-90-seconds)
+      [Guzheng in 90 Seconds](/guzheng-in-90-seconds)
 
       Timelines
 
-      The Story of G-----g's Long History
+      The Story of Guzheng's Long History
   - title: Tuning
     image: /img/two-color-background.png
     text: |-
@@ -112,9 +112,9 @@ groups:
   - title: Types
     image: /img/verticalzhengssmall.jpg
     text: |-
-      [G-----g Styles](/guzhengs-styles)
+      [Guzheng Styles](/guzhengs-styles)
 
-      Similar Instruments
+      Similar Instruments from Around the World
 
       Virtual Instruments and Software
   - title: How it's Made
