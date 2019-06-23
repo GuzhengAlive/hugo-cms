@@ -58,8 +58,6 @@ sections:
       the wayside.
 
 
-
-
       But there's a bit more to it then that. Western audiences have regarded
       music from China as an exotic oddity to be stared at and dismissed.(1)
       When we humans encounter something that is different enough, we tend to
@@ -71,11 +69,7 @@ sections:
       China to get over that resistance. 
 
 
-
-
       That is changing.
-
-
 
 
       Modern technology has made mountains of information accessible to people
@@ -87,14 +81,10 @@ sections:
       journey.
 
 
-
-
       Notes
 
 
       (*): Citation needed.
-
-
 
 
       (1) there are researchers who have acted as exceptions but they prove the
