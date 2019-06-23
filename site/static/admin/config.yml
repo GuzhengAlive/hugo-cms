@@ -177,6 +177,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "changelog"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string, required: false}
           - {label: Image, name: image, widget: image}
           - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
           - label: Sections
