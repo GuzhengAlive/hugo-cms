@@ -48,6 +48,8 @@ groups:
       Buy Used
 
       Find Stores
+
+      Guzheng Pricing Tiers
   - title: Care and Maintenance
     image: /img/dusty-soundboard.jpg
     text: |-
@@ -145,6 +147,20 @@ groups:
       Sitemap (Historic)
 
       Special Thanks
+  - title: References
+    image: /img/hkguzhengtail.jpg
+    text: |-
+      Bibliography
+
+      Descriptions
+
+      Further Reading
+
+      Glossary
+
+      List of Figures
+
+      Minor Mentions
 sections:
   - heading: What is a Guzheng?
     text: >-
