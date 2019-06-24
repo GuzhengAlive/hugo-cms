@@ -2,7 +2,9 @@
 title: Carol Chang
 description: Founder of Sound of China Guzheng Music Promotion Center
 image: /img/carol-chang_compressed.jpg
-videos: []
+videos:
+  - youtubecode: ujzMHLac404
+  - youtubecode: N9URExgPOpA
 ---
 So many people owe their awareness and appreciation of the guzheng here in America to Carol Chang. She is the founder and proprietor of the "Sound of China Guzheng Music Promotion Center" in Hacienda Heights, California. She publishes a list of teachers around the country (and world!) through which I found my first guzheng teacher. Her store is where I ordered my first guzheng from.
 
