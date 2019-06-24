@@ -102,7 +102,7 @@ groups:
 
       [Blogs](/blogs-and-private-works)
 
-      [Experts](/experts)
+      [Experts](/guzheng-experts)
 
       Forum
 
@@ -166,7 +166,7 @@ sections:
     text: >-
       The gǔzhēng (古筝) is a shockingly beautiful long zither from China. The
       name is Mandarin Chinese for "ancient zither". "Gu" is pronounced close to
-      "goo" and "zheng" similar to "jung". 
+      "goo" and "zheng" similar to "jung".
 
 
 
@@ -225,4 +225,3 @@ sections:
       Visit the forum to read up on past discussions or email Guzheng Alive with
       questions through the form below.
 ---
-
