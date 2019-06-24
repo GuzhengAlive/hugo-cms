@@ -2,7 +2,9 @@
 title: Dr. Mei Han
 description: Ethnomusicologist and Musician
 image: /img/mei-han.jpg
-videos: []
+videos:
+  - youtubecode: v5mwgym0PGA
+  - youtubecode: _BVXsr5F6dI
 ---
 Dr. Mei Han's PhD thesis is what changed me from wishing I could know more about the guzheng to wanting to share that information with others. Now a professor at Middle Tennessee University in Murfreesboro, Dr. Han is originally from Beijing. She experienced the many musical changes that took place in the 1960s and 70s first hand during her performance career. She received Master's degrees in Ethnomusicology from Musical Research Institute of the Chinese Arts Academy in Beijing and from the University of British Columbia in Vancouver, Canada. She later went on to receive a PhD in Ethnomusicology from UBC and subsequently took up her position in Tennessee.
 
@@ -10,15 +12,11 @@ Dr. Han's writing is an extension of her life. She provides insight into the dev
 
 In addition to her work being the push that got Guzheng Alive started, I relied heavily on her thesis to understand the progression of the guzheng over time. That understanding makes up the bulk of the page  describing an overview of the instrument's history.  Dr. Han's thesis is also the basis for the Modern section of the Timeline and laid out the framework for the Guzheng Types page.
 
-Site:
+## Site:
 
 [Mei-Han.com](http://www.mei-han.com/meihan.html)
 
-{{< youtube v5mwgym0PGA >}}
-
-{{< youtube _BVXsr5F6dI >}}
-
-Interviews:
+## Interviews:
 
 [CBC On The Go Podcast, November 23, 2017](http://www.cbc.ca/listen/shows/on-the-go/episode/14906288), an approachable conversation about the instrument, Dr. Han, and their history.
 
