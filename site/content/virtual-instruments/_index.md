@@ -30,14 +30,14 @@ intro: >-
   There are various Sample Libraries out there if you don’t want a virtual
   instrument. One example is the 2009 “Silk’ from Sounds Online. They include
   guzheng with 22 other sampled instruments in their $299 USD library.
-virinstruments:
+instruments:
   - heading: 'Impact Soundworks Plectra Series 5: Guzheng'
     text: >-
       [Price: $59
       USD](https://impactsoundworks.com/product/plectra-series-5-guzheng/)
 
 
-      Sound Files: 24bit, references 10GB install size and 50GB uncompressed. 
+      Sound Files: 24bit, references 10GB install size and 50GB uncompressed.
 
 
       Release Year: 2017.
@@ -94,13 +94,13 @@ virinstruments:
       [Price: ~$70 USD (€ 59)](https://www.wavesfactory.com/guzheng/)
 
 
-      Sound Files 24bit, 2.29GB total. 
+      Sound Files 24bit, 2.29GB total.
 
 
-      Release Year: 2013, last update unknown. 
+      Release Year: 2013, last update unknown.
 
 
-      Articulations / Techniques: 5- “fingers, pick, stick, bow and ebow". 
+      Articulations / Techniques: 5- “fingers, pick, stick, bow and ebow".
 
 
       Kontakt Version: Player 4.2.3
@@ -118,7 +118,7 @@ virinstruments:
       USD](http://www.soniccouture.com/en/products/31-ethnic/g7-guzheng/)
 
 
-      Sound Files: 24bit 44khz, 2.25 GB total. 
+      Sound Files: 24bit 44khz, 2.25 GB total.
 
 
       Release Year: 2009, updated 2018.
@@ -184,4 +184,3 @@ virinstruments:
       No Manual Available.
     youtubecode: 6GxRATNvg8k
 ---
-
