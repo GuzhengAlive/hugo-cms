@@ -1,11 +1,11 @@
 {{ define "main" }}
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 <div class="tc mw-100">
-{{ range $element := .Params.virinstruments }}
+{{ range $element := .Params.instruments }}
 	{{ partial "jump-to-menu" $element }}
 {{end}}
 </div>
-	{{ range $element := .Params.virtual-instruments }}
+	{{ range $element := .Params.instruments }}
 		{{ partial "video-block-1-to-3" $element }}
 	{{end}}
 {{ end }}

@@ -627,8 +627,8 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
           - {label: Intro, name: intro, widget: markdown, required: false}
-          - label: Virtual Instruments
-            name: virtual-instruments
+          - label: Instruments
+            name: instruments
             widget: list
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
