@@ -12,15 +12,11 @@ Dr. Han's writing is an extension of her life. She provides insight into the dev
 
 In addition to her work being the push that got Guzheng Alive started, I relied heavily on her thesis to understand the progression of the guzheng over time. That understanding makes up the bulk of the page  describing an overview of the instrument's history.  Dr. Han's thesis is also the basis for the Modern section of the Timeline and laid out the framework for the Guzheng Types page.
 
-Site:
+## Site:
 
 [Mei-Han.com](http://www.mei-han.com/meihan.html)
 
-{{< youtube v5mwgym0PGA >}}
-
-{{< youtube _BVXsr5F6dI >}}
-
-Interviews:
+## Interviews:
 
 [CBC On The Go Podcast, November 23, 2017](http://www.cbc.ca/listen/shows/on-the-go/episode/14906288), an approachable conversation about the instrument, Dr. Han, and their history.
 
