@@ -11,7 +11,7 @@
       {{ .Content }}
       {{ if .Params.videos }}
         {{ range $element := .Params.videos }}
-          {{ partial "video-embed" $element }}
+          {{ partial "youtube-embed" $element }}
         {{end}}
       {{ end }}
     </div>
