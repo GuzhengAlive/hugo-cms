@@ -2,7 +2,9 @@
 title: Dr. Mei Han
 description: Ethnomusicologist and Musician
 image: /img/mei-han.jpg
-videos: []
+videos:
+  - youtubecode: v5mwgym0PGA
+  - youtubecode: _BVXsr5F6dI
 ---
 Dr. Mei Han's PhD thesis is what changed me from wishing I could know more about the guzheng to wanting to share that information with others. Now a professor at Middle Tennessee University in Murfreesboro, Dr. Han is originally from Beijing. She experienced the many musical changes that took place in the 1960s and 70s first hand during her performance career. She received Master's degrees in Ethnomusicology from Musical Research Institute of the Chinese Arts Academy in Beijing and from the University of British Columbia in Vancouver, Canada. She later went on to receive a PhD in Ethnomusicology from UBC and subsequently took up her position in Tennessee.
 
