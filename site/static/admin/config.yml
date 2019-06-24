@@ -621,14 +621,14 @@ collections: # A list of collections the CMS should be able to edit
             - {label: Text, name: text, widget: markdown, required: false}
       - file: "site/content/virtual-instruments/_index.md"
         label: "Virtual Instruments"
-        name: "virtualinstruments"
+        name: "virtual-instruments"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
           - {label: Intro, name: intro, widget: markdown, required: false}
           - label: Virtual Instruments
-            name: virinstruments
+            name: virtual-instruments
             widget: list
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
