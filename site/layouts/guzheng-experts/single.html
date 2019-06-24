@@ -10,7 +10,7 @@
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="fl"/>{{ end }}
       {{ .Content }}
       {{ if .Params.videos }}
-        {{ range $element := .Params.videos.youtubecode }}
+        {{ range $element := .youtubecode }}
           {{ $element }}
         {{end}}
       {{ end }}
