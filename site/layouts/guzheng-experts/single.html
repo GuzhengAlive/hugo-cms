@@ -9,6 +9,11 @@
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="fl"/>{{ end }}
       {{ .Content }}
+      {{ if .Params.videos }}
+        {{ range $element := .Params.videos.youtubecode }}
+          {{< youtube $element >}}
+        {{end}}
+      {{ end }}
     </div>
   </div>
 {{ end }}
