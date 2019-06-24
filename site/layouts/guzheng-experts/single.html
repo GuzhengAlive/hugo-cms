@@ -11,7 +11,7 @@
       {{ .Content }}
       {{ if .Params.videos }}
         {{ range $element := .Params.videos.youtubecode }}
-          {{< youtube $element >}}
+          {{ youtube $element }}
         {{end}}
       {{ end }}
     </div>
