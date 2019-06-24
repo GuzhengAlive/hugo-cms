@@ -626,11 +626,13 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
-          - label: Sections
-            name: sections
+          -{label: Intro, name: intro, widget: markdown, required: false}
+          - label: VirInstruments
+            name: virinstruments
             widget: list
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
+            - {label: "Youtube Code", name: youtubecode, widget: string, required: false}
             - {label: Text, name: text, widget: markdown, required: false}
       - file: "site/content/what-is-a-guzheng-school/_index.md"
         label: "What Is A Guzheng School"
