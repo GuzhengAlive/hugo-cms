@@ -641,8 +641,20 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
-          - label: Sections
-            name: sections
+          - label: Sections1
+            name: sections1
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
+          - label: Images
+            name: images
+            widget: list
+            fields:
+            - {label: Image, name: image, widget: image, required: false}
+            - {label: Caption, name: caption, widget: markdown, required: false}
+          - label: Sections2
+            name: sections2
             widget: list
             fields:
             - {label: Heading, name: heading, widget: string, required: false}

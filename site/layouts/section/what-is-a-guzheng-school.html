@@ -5,7 +5,13 @@
 	{{ partial "jump-to-menu" $element }}
 {{end}}
 </div>
-	{{ range $element := .Params.sections }}
+	{{ range $element := .Params.sections1 }}
+		{{ partial "basic-sections" $element }}
+	{{end}}
+	{{ range $element := .Params.images }}
+		{{ partial "image-block-3w" $element }}
+	{{end}}
+	{{ range $element := .Params.sections2 }}
 		{{ partial "basic-sections" $element }}
 	{{end}}
 {{ end }}
