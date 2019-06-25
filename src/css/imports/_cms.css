@@ -70,7 +70,7 @@
 	}
 
 	& ol {
-		list-style: none;
+		/**list-style: none;**/
 		margin-left: var(--spacing-medium);
 		counter-reset: i 0;
     & >li:before {
