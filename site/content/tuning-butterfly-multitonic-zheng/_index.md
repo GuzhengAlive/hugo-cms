@@ -2,6 +2,7 @@
 title: Tuning Butterfly and Multitonic Zheng
 image: /img/white-background.jpeg
 sections:
+  - text: These are the really fun instruments! Let’s get into this.
   - heading: Butterfly
     text: >-
       The Butterfly guzheng is setup with separate sides, 25 on the left and 24
