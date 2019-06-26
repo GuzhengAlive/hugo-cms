@@ -20,6 +20,62 @@ sections:
       "Butterfly Zheng String Numbers Chart")
 
 
+
+
+      ## Right Side
+
+
+      1. C6
+
+      2. A#5
+
+      3. (short) G#5
+
+      4. G5
+
+      5. F5
+
+      6. D#5
+
+      7. C5
+
+      8. A#4
+
+      9. (short) G#4
+
+      10. G4
+
+      11. F4
+
+      12. D#4
+
+      13. C4
+
+      14. A#3
+
+      15. (short) G#3
+
+      16. G3
+
+      17. F3
+
+      18. D#3
+
+      19. C3
+
+      20. A#2
+
+      21. (short) G#2
+
+      22. G2
+
+      23. F2
+
+      24. D#2
+
+
+
+
       ## Left Side
 
 
@@ -74,56 +130,7 @@ sections:
       25. D2
 
 
-      ## Right Side
-
-
-      1. C6
-
-      2. A#5
-
-      3. (short) G#5
-
-      4. G5
-
-      5. F5
-
-      6. D#5
-
-      7. C5
-
-      8. A#4
-
-      9. (short) G#4
-
-      10. G4
-
-      11. F4
-
-      12. D#4
-
-      13. C4
-
-      14. A#3
-
-      15. (short) G#3
-
-      16. G3
-
-      17. F3
-
-      18. D#3
-
-      19. C3
-
-      20. A#2
-
-      21. (short) G#2
-
-      22. G2
-
-      23. F2
-
-      24. D#2
+      ##
   - heading: Multitonic
     text: >-
       The multitonic is essentially two guzheng in one: a 16-string pentatonic
@@ -137,9 +144,91 @@ sections:
       from Dunhuang")
 
 
-
-
       ![Multitonic Zheng Chart Key of D](/img/multitonic-chart.png "Multitonic
       Zheng Chart Key of D")
+
+
+
+
+      ## Right Side, Diatonic
+
+
+      1. B5
+
+      2. A#5
+
+      3. G5
+
+      4. F#5
+
+      5. E5
+
+      6. D5
+
+      7. C#5
+
+      8. B4
+
+      9. A4
+
+      10. G4
+
+      11. F#4
+
+      12. E4
+
+      13. D4
+
+      14. C#4
+
+      15. B3
+
+      16. A3
+
+      17. G3
+
+      18. F#3
+
+      19. E3
+
+      20. D3
+
+      21. A2
+
+
+      ## Left Side, Pentatonic
+
+
+      1. D6
+
+      2. B5
+
+      3. A5
+
+      4. F#5
+
+      5. E5
+
+      6. D5
+
+      7. B4
+
+      8. A4
+
+      9. F#4
+
+      10. E4
+
+      11. D4
+
+      12. B3
+
+      13. A3
+
+      14. F#3
+
+      15. E3
+
+      16. D3
 ---
 
