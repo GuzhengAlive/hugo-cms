@@ -20,7 +20,7 @@ input[type='checkbox'] {
   display: none;
 }
 
-.lbl-toggle {
+label.lbl-toggle {
   display: block;
 
   font-weight: bold;
@@ -40,11 +40,11 @@ input[type='checkbox'] {
   transition: all 0.25s ease-out;
 }
 
-.lbl-toggle:hover {
+label.lbl-toggle:hover {
   color: var(--grey-1);
 }
 
-.lbl-toggle::before {
+label.lbl-toggle::before {
   content: ' ';
   display: inline-block;
 
@@ -85,7 +85,7 @@ input[type='checkbox'] {
   padding: .5rem 1rem;
 }
 
-/* simpler colapsible list from https://bernholdtech.blogspot.com/2013/04/very-simple-pure-css-collapsible-list.html 
+/* simpler colapsible list from https://bernholdtech.blogspot.com/2013/04/very-simple-pure-css-collapsible-list.html
 .collapsibleList div > input + * {
  display: none;
 }
