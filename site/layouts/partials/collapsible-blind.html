@@ -1,8 +1,8 @@
 <div class="wrap-collapsible">
   {{range .blinds}}
-	{{ $target := replaceRE " " "" .title }}
+	{{ $target := replaceRE " " "" .heading }}
   <input id="{{$target}}" class="toggle" type="checkbox">
-  <label for="{{$target}}" class="lbl-toggle">{{.title}}</label>
+  <label for="{{$target}}" class="lbl-toggle">{{.heading}}</label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
