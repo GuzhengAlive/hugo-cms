@@ -31,8 +31,8 @@ input[type='checkbox'] {
 
   padding: 1rem;
 
-  color: #A77B0E;
-  background: #FAE042;
+  color: var(--primary);
+  background: var(--white);
 
   cursor: pointer;
 
@@ -41,7 +41,7 @@ input[type='checkbox'] {
 }
 
 .lbl-toggle:hover {
-  color: #7C5A0B;
+  color: var(--grey-1);
 }
 
 .lbl-toggle::before {
