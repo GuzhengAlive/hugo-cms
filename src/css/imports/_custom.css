@@ -13,71 +13,72 @@
 }
 /*colabsible blinds from https://alligator.io/css/collapsible/*/
 .wrap-collapsible {
-  margin-bottom: 1.2rem 0!important;
+  margin-bottom: 1.2rem 0;
 }
 
 input[type='checkbox'] {
-  display: none!important;
+  display: none;
 }
 
 .lbl-toggle {
-  display: block!important;
+  display: block;
 
-  font-weight: bold!important;
-  font-family: monospace!important;
-  font-size: 1.2rem!important;
-  text-transform: uppercase!important;
-  text-align: center!important;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  text-align: center;
 
-  padding: 1rem!important;
+  padding: 1rem;
 
-  color: var(--primary)!important;
-  background: var(--white)!important;
+  color: var(--primary);
+  background: var(--white);
 
-  cursor: pointer!important;
+  cursor: pointer;
 
-  border-radius: 7px!important;
-  transition: all 0.25s ease-out!important;
+  border-radius: 7px;
+  transition: all 0.25s ease-out;
 }
 
 .lbl-toggle:hover {
-  color: var(--grey-1)!important;
+  color: var(--grey-1);
 }
 
 .lbl-toggle::before {
-  content: ' '!important;
-  display: inline-block!important;
+  content: ' ';
+  display: inline-block;
 
-  border-top: 5px solid transparent!important;
-  border-bottom: 5px solid transparent!important;
-  border-left: 5px solid currentColor!important;
-  vertical-align: middle!important;
-  margin-right: .7rem!important;
-  transform: translateY(-2px)!important;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
 
-  transition: transform .2s ease-out!important;
+  transition: transform .2s ease-out;
 }
 
 .toggle:checked + .lbl-toggle::before {
-  transform: rotate(90deg) translateX(-3px)!important;
+  transform: rotate(90deg) translateX(-3px);
 }
 
 .collapsible-content {
-  max-height: 0px!important;
-  overflow: hidden!important;
-  transition: max-height .25s ease-in-out!important;
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .25s ease-in-out;
 }
 
 .toggle:checked + .lbl-toggle + .collapsible-content {
-  max-height: 350px!important;
+  max-height: 350px;
 }
 
 .toggle:checked + .lbl-toggle {
-  border-bottom-right-radius: 0!important;
-  border-bottom-left-radius: 0!important;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
 }
 
 .collapsible-content .content-inner {
+<<<<<<< HEAD
   background: rgba(250, 224, 66, .2)!important;
   border-bottom: 1px solid rgba(250, 224, 66, .45)!important;
   border-bottom-left-radius: 7px!important;
@@ -85,6 +86,15 @@ input[type='checkbox'] {
   padding: .5rem 1rem!important;
 }
 /* simpler colapsible list from https://bernholdtech.blogspot.com/2013/04/very-simple-pure-css-collapsible-list.html 
+=======
+  background: rgba(250, 224, 66, .2);
+  border-bottom: 1px solid rgba(250, 224, 66, .45);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
+}*/
+/* simpler colapsible list from https://bernholdtech.blogspot.com/2013/04/very-simple-pure-css-collapsible-list.html */
+>>>>>>> parent of 51b7a02... Update _custom.css
 .collapsibleList div > input + * {
  display: none;
 }
