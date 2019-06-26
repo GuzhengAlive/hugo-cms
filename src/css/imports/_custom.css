@@ -78,23 +78,14 @@ input[type='checkbox'] {
 }
 
 .collapsible-content .content-inner {
-<<<<<<< HEAD
-  background: rgba(250, 224, 66, .2)!important;
-  border-bottom: 1px solid rgba(250, 224, 66, .45)!important;
-  border-bottom-left-radius: 7px!important;
-  border-bottom-right-radius: 7px!important;
-  padding: .5rem 1rem!important;
-}
-/* simpler colapsible list from https://bernholdtech.blogspot.com/2013/04/very-simple-pure-css-collapsible-list.html 
-=======
   background: rgba(250, 224, 66, .2);
   border-bottom: 1px solid rgba(250, 224, 66, .45);
   border-bottom-left-radius: 7px;
   border-bottom-right-radius: 7px;
   padding: .5rem 1rem;
-}*/
-/* simpler colapsible list from https://bernholdtech.blogspot.com/2013/04/very-simple-pure-css-collapsible-list.html */
->>>>>>> parent of 51b7a02... Update _custom.css
+}
+
+/* simpler colapsible list from https://bernholdtech.blogspot.com/2013/04/very-simple-pure-css-collapsible-list.html 
 .collapsibleList div > input + * {
  display: none;
 }
