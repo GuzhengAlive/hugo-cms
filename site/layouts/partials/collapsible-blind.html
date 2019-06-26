@@ -1,4 +1,5 @@
-<div class="wrap-collapsible mw8">
+<div class="mw8 center">
+<div class="wrap-collapsible">
   {{range .blinds}}
 	{{ $target := replaceRE " " "" .heading }}
   <input id="{{$target}}" class="toggle" type="checkbox" checked>
@@ -11,4 +12,5 @@
     </div>
   </div>
   {{end}}
+</div>
 </div>
