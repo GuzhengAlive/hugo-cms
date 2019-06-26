@@ -606,6 +606,12 @@ collections: # A list of collections the CMS should be able to edit
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
             - {label: Text, name: text, widget: markdown, required: false}
+          - label: Blinds
+            name: blinds
+            widget: list
+            fields:
+            - {label: Title, name: title, widget: string, required: false}
+            - {label: text, name: text, widget: markdown, required: false}            
       - file: "site/content/tuning-butterfly-multitonic-zheng/_index.md"
         label: "Tuning Butterfly Multitonic Zheng"
         name: "tuningbutterflymultitoniczheng"
