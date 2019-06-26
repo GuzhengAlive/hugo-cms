@@ -11,7 +11,7 @@
     width: 100%;
     height: 100%;
 }
-/*colabsible blinds from https://alligator.io/css/collapsible/*/
+/*colabsible blinds from https://alligator.io/css/collapsible/
 .wrap-collapsible {
   margin-bottom: 1.2rem 0;
 }
@@ -83,4 +83,20 @@ input[type='checkbox'] {
   border-bottom-left-radius: 7px;
   border-bottom-right-radius: 7px;
   padding: .5rem 1rem;
+}*/
+/* simpler colapsible list from https://bernholdtech.blogspot.com/2013/04/very-simple-pure-css-collapsible-list.html */
+.collapsibleList div > input + * {
+ display: none;
+}
+
+.collapsibleList div > input:checked + * {
+ display: block;
+}
+
+.collapsibleList div > input {
+ display: none;
+}
+
+.collapsibleList label {
+ cursor: pointer;
 }

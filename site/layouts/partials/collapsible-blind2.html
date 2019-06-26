@@ -1,0 +1,10 @@
+<div class="collapsibleList">
+  {{range .blinds}}
+  {{ $target := replaceRE " " "" .heading }}
+  <label for="{{$target}}">{{$target}}</label>
+  <input type="checkbox" id="{{$target}}" />
+  <p>
+    {{.text}}
+    </p>
+
+</div>
