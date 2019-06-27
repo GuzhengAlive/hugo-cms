@@ -17,4 +17,5 @@
 	{{ range $element := .Params.sections2 }}
 		{{ partial "basic-sections" $element }}
 	{{end}}
+		{{ partial "collapsible-blind" .Params}}
 {{ end }}
