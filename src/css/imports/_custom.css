@@ -42,7 +42,7 @@ label.lbl-toggle {
 }
 
 label.lbl-toggle:hover {
-  color: var(--grey-1);
+  color: var(--grey-3);
 }
 
 label.lbl-toggle::before {
@@ -79,11 +79,11 @@ label.lbl-toggle::before {
 }
 
 .collapsible-content .content-inner {
-  background: var(--grey-1);
-  border-bottom: 1px solid var(--grey-1);
+  /*background: var(--grey-1);*/
+  border-left: 1px solid var(--grey-1);
   border-bottom-left-radius: 7px;
   border-bottom-right-radius: 7px;
-  padding: .5rem 1rem;
+  padding: .5rem 2rem;
 }
 
 /* simpler colapsible list from https://bernholdtech.blogspot.com/2013/04/very-simple-pure-css-collapsible-list.html
