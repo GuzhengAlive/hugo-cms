@@ -3,7 +3,7 @@
   {{range .blinds}}
 	{{ $target := replaceRE " " "" .heading }}
   <input id="{{$target}}" class="toggle" type="checkbox">
-  <label for="{{$target}}" class="lbl-toggle">{{.heading}}</label>
+  <label for="{{$target}}" class="lbl-toggle mw6">{{.heading}}</label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
