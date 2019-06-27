@@ -221,5 +221,48 @@ sections2:
       represents the most commonly used categories but the synonyms and minor
       schools get tricky. If you know better please send me an email! Here’s
       where I got my info:
+blinds:
+  - heading: Sources
+    text: >-
+      Chen, Y.-Z. (1991). The Zheng: A Chinese Instrument and Its Music. Brown
+      University.
+
+
+      Cheng 1991: Cheng, T. (1991). Zheng, Tradition and Change. University of
+      Maryland at Baltimore County PhD Thesis
+
+
+      Ferguson, D. L. (1979). Modern Performance Techniques for the Chinese
+      Zither Cheng. University of California Los Angeles.
+
+
+      Han, M. (2000). Historical and Contemporary Development of the Chinese
+      Zheng. University of British Columbia. Link
+
+
+      Han, M. (2013). The emergence of the Chinese zheng: traditional context,
+      contemporary evolution, and cultural identity. University of British of
+      Columbia. Retrieved from Link
+
+
+      Khê, T. Van. (1985). Chinese Music and Musical Traditions of Eastern Asia.
+      The World of Music, 27(1), 78–90. Retrieved from Link
+
+
+      Kwok, T. J. (1987). Zheng: a Chinese Zither and its Music. University of
+      Hawaii.
+
+
+      Lua Shui Chung, J. (2006). Zheng Music : The Reception of a Post-1949
+      Chinese Tradition in Hong Kong. The Chinese University of Hong Kong.
+      Retrieved from Link
+
+
+      Stiegel, J. E. (1983). The History, Usage, and Technique of the Chinese
+      Cheng. Northern Illinois University.
+
+
+      Wong, S. S. (2005). 筝 Zheng. In Qi: An Instrumental Guide to the Chinese
+      Orchestra (pp. 69–83). Singapore: TENG.
 ---
 
