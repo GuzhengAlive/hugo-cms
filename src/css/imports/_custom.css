@@ -43,7 +43,7 @@ label.lbl-toggle {
 }
 
 label.lbl-toggle:hover {
-  color: var(--grey-3);
+  color: var(--grey-2);
 }
 
 label.lbl-toggle::before {
