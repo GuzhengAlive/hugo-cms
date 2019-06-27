@@ -69,9 +69,8 @@ label.lbl-toggle::before {
   transition: max-height .25s ease-in-out;
 }
 
-/*toggle:checked + .lbl-toggle + .collapsible-content {
-  max-height: 350px;
-}*/
+toggle:checked + .lbl-toggle + .collapsible-content {
+  max-height: 950px;
 
 .toggle:checked + .lbl-toggle {
   border-bottom-right-radius: 0;
