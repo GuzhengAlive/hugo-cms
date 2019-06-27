@@ -16,6 +16,7 @@
   margin-bottom: 1.2rem 0;
 }
 
+/*Reminder: as written this applies to all checkboxes used in the future.*/
 input[type='checkbox'] {
   display: none;
 }
@@ -78,8 +79,8 @@ label.lbl-toggle::before {
 }
 
 .collapsible-content .content-inner {
-  background: rgba(250, 224, 66, .2);
-  border-bottom: 1px solid rgba(250, 224, 66, .45);
+  background: var(--grey-1);
+  border-bottom: 1px solid var(--grey-1);
   border-bottom-left-radius: 7px;
   border-bottom-right-radius: 7px;
   padding: .5rem 1rem;
