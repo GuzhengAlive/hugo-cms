@@ -31,6 +31,7 @@ label.lbl-toggle {
   text-align: center;
 
   padding: 1rem;
+  margin-top: 1rem;
 
   color: var(--primary);
   background: var(--grey-1);
@@ -79,11 +80,8 @@ label.lbl-toggle::before {
 }
 
 .collapsible-content .content-inner {
-  /*background: var(--grey-1);*/
-  border-left: 1px solid var(--grey-1);
-  border-bottom-left-radius: 7px;
-  border-bottom-right-radius: 7px;
-  padding: .5rem 2rem;
+  border-left: 10px solid var(--grey-1);
+  padding: 0rem 2rem;
 }
 
 /* simpler colapsible list from https://bernholdtech.blogspot.com/2013/04/very-simple-pure-css-collapsible-list.html
