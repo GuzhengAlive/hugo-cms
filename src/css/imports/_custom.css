@@ -32,7 +32,7 @@ label.lbl-toggle {
   padding: 1rem;
 
   color: var(--primary);
-  background: var(--white);
+  background: var(--grey-1);
 
   cursor: pointer;
 
@@ -68,9 +68,9 @@ label.lbl-toggle::before {
   transition: max-height .25s ease-in-out;
 }
 
-.toggle:checked + .lbl-toggle + .collapsible-content {
+/*toggle:checked + .lbl-toggle + .collapsible-content {
   max-height: 350px;
-}
+}*/
 
 .toggle:checked + .lbl-toggle {
   border-bottom-right-radius: 0;
