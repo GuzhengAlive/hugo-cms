@@ -2,7 +2,7 @@
 <div class="wrap-collapsible">
   {{range .blinds}}
 	{{ $target := replaceRE " " "" .heading }}
-  {{  $target2 := slice {{$target}} "2"}}
+  {{  $target2 := slice $target "2"}}
   {{$target2}}
   <input id="{{$target2}}" class="toggle" type="checkbox">
   <label for="{{$target2}}" class="lbl-toggle mw6" id="{{$target}}">{{.heading}}</label>
