@@ -5,7 +5,7 @@
 	{{ partial "jump-to-menu" $element }}
 {{end}}
 </div>
-	{{ range $element := .Params.sections }}
-		{{ partial "basic-sections" $element }}
+	{{ range $index, $element := .Params.sections }}
+	{{ partial "media-block-1-to-3" $element }}
 	{{end}}
 {{ end }}

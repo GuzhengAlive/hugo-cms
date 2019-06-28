@@ -437,6 +437,8 @@ collections: # A list of collections the CMS should be able to edit
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
             - {label: Text, name: text, widget: markdown, required: false}
+            - {label: Image, name: imageUrl, widget: image}
+            - {label: Caption, name: caption, widget: text}
       - file: "site/content/mother-tunes-and-music-theory/_index.md"
         label: "Mother Tunes And Music Theory"
         name: "mothertunesandmusictheory"
