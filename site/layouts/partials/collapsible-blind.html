@@ -2,8 +2,10 @@
 <div class="wrap-collapsible">
   {{range .blinds}}
 	{{ $target := replaceRE " " "" .heading }}
-  <input id="{{$target}}" class="toggle" type="checkbox">
-  <label for="{{$target}}" class="lbl-toggle mw6">{{.heading}}</label>
+  {{  $target2 := slice "{{$target}}" "2"}}
+  {{$target2}}
+  <input id="{{$target2}}" class="toggle" type="checkbox">
+  <label for="{{$target2}}" class="lbl-toggle mw6" id="{{$target}}">{{.heading}}</label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
