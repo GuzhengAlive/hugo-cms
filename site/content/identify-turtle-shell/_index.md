@@ -9,10 +9,6 @@ sections:
       imitations. It can be hard to tell if a pick is made of turtle shell or
       not. Here are ways to identify what material your picks are made of.
   - heading: '1: Patterning'
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
+    text: Text
 ---
 
