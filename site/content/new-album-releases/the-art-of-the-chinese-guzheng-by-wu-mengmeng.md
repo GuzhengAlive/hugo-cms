@@ -2,9 +2,9 @@
 title: The Art of the Chinese Guzheng by Wu Mengmeng
 date: 2019-04-26T07:00:00.000Z
 image: /img/the-art-of-the-chinese-guzheng.jpg
-publisherlink: 'http://store.arcmusic.co.uk/the-art-of-the-chinese-guzheng.html'
+avarname: 'http://store.arcmusic.co.uk/the-art-of-the-chinese-guzheng.html'
 ---
-This is a great introduction to the traditional guzheng repertoire by a modern performer recorded with modern equipment. London-based Wu Mengmeng performs 12 songs from across the traditional guzheng repertoire. These are clean recordings of well-performed songs that you may well play yourself. 
+This is a great introduction to the traditional guzheng repertoire by a modern performer recorded with modern equipment. London-based Wu Mengmeng performs 12 songs from across the traditional guzheng repertoire. These are clean recordings of well-performed songs that you may well play yourself.
 
 
 

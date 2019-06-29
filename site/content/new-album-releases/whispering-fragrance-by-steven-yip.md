@@ -2,9 +2,9 @@
 title: Whispering Fragrance by Steven Yip
 date: 2018-08-10T07:00:00.000Z
 image: /img/whispering-fragrance-by-stephen-yip.jpg
-publisherlink: 'http://www.navonarecords.com/epk/fragrance/'
+avarname: 'http://www.navonarecords.com/epk/fragrance/'
 ---
-Whispering Fragrance is a 67-minute long collection of 6 works composed by Hong Kong / USA-based Stephen Yip. The guzheng features in mainly just the first track “Ding”. To my untrained ear this album would be considered “Experimental”. The focus is not on melody or flow as much as it is on interesting bursts of sound. You can listen to samples on the album’s webpage. 
+Whispering Fragrance is a 67-minute long collection of 6 works composed by Hong Kong / USA-based Stephen Yip. The guzheng features in mainly just the first track “Ding”. To my untrained ear this album would be considered “Experimental”. The focus is not on melody or flow as much as it is on interesting bursts of sound. You can listen to samples on the album’s webpage.
 
 
 
