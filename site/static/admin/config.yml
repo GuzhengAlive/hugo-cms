@@ -38,6 +38,16 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Order", name: "order", widget: "string"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "new-album-releases" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Album Release" # Used in the UI, ie.: "New Post"
+    folder: "site/content/new-album-releases" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Release Date", name: "date", widget: "datetime"}
+      - {label: "Release Date2", name: "date2", widget: "date"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
@@ -444,19 +454,6 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/mother-tunes-and-music-theory/_index.md"
         label: "Mother Tunes And Music Theory"
         name: "mothertunesandmusictheory"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
-          - label: Sections
-            name: sections
-            widget: list
-            fields:
-            - {label: Heading, name: heading, widget: string, required: false}
-            - {label: Text, name: text, widget: markdown, required: false}
-      - file: "site/content/new-album-releases/_index.md"
-        label: "New Album Releases"
-        name: "newalbumreleases"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
