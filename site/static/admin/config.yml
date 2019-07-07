@@ -132,6 +132,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "bibliography"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string, required: false}          
           - {label: Image, name: image, widget: image}
           - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
           - label: Sections
@@ -256,6 +257,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "furtherreading"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string, required: false}
           - {label: Image, name: image, widget: image}
           - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
           - label: Sections
@@ -535,6 +537,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "sitemaphistoric"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string, required: false}
           - {label: Image, name: image, widget: image}
           - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
           - label: Sections
