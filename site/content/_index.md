@@ -53,7 +53,7 @@ groups:
   - title: Care and Maintenance
     image: /img/dusty-soundboard.jpg
     text: |-
-      Clean and Maintain
+      [Clean and Maintain](/guzheng-care)
 
       [Mail and Ship](/shipping-guzheng)
   - title: Accessories
