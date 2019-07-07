@@ -10,6 +10,8 @@ text: >-
   recordings of well-performed songs that you may well play yourself.
 
 
+
+
   Produced by world music publisher ARC Music in London, The Art of the Chinese
   Guzheng is their 15-year follow-on to their 2004 The Art of the Chinese Harp.
   That 2004 album (available on most streaming services and YouTube) was
@@ -17,7 +19,11 @@ text: >-
   from across the traditional repertoire.
 
 
+
+
   Genre: Traditional
+
+
 
 
   Instruments: Guzheng
