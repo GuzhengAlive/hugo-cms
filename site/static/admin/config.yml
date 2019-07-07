@@ -47,7 +47,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Release Date", name: "date", widget: "date"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "avarname", name: "avarname", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Text", name: "text", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
