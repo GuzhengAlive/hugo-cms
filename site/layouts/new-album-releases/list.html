@@ -6,7 +6,7 @@
   <ul class="">
       {{ range .Pages.GroupByDate "2006" }}
       <h2 class="f3"> {{ .Key }}</h2>
-      <div class="flex-ns flex-wrap mhn1-ns pa3">
+      <div class="mhn1-ns pa3">
       {{ range .Pages }}
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "li-albums"}}
