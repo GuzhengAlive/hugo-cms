@@ -17,13 +17,13 @@ groups:
     text: |-
       21 Strings
 
-      16, 18, 23, 26-String
+      [16, 18, 23, 26-String](/tuning-16-18-23-26)
 
-      Butterfly, Multitonic
+      [Butterfly, Multitonic](/tuning-butterfly-multitonic-zheng)
 
-      Diatonic
+      [Diatonic](/tune-guzheng-diatonic)
 
-      Change Keys
+      [Change Keys](/keys)
 
       Construct Keys
   - title: The Basics
@@ -41,9 +41,9 @@ groups:
   - title: Buying
     image: /img/retailers.jpg
     text: |-
-      Cost of Ownership
+      [Cost of Ownership](/cost-of-ownership)
 
-      Buy New
+      [Buy New](/buy-new)
 
       Buy Used
 
@@ -55,7 +55,7 @@ groups:
     text: |-
       Clean and Maintain
 
-      Mail and Ship
+      [Mail and Ship](/shipping-guzheng)
   - title: Accessories
     image: /img/nail-notches_compressed.jpg
     text: |-
@@ -65,7 +65,7 @@ groups:
 
       Identifying Turtle Shell
 
-      Strings
+      [Strings](/strings)
 
       Stands
 
@@ -76,7 +76,7 @@ groups:
       Reviews
   - title: Theory
     image: /img/img_3282.jpg
-    text: Mother Tunes and Music Theory
+    text: '[Mother Tunes and Music Theory](/mother-tunes-and-music-theory)'
   - title: Music?
     image: /img/冷暖人生-dennis-wong_compressed.jpg
     text: |-
@@ -84,13 +84,13 @@ groups:
 
       Repertoire
 
-      New Releases
+      [New Album Releases](/new-album-releases)
 
       Examples
 
       Schools and Styles
 
-      What is a g-----g School
+      [What is a Guzheng School](/what-is-a-guzheng-school)
 
       How to Write Sheet Music
   - title: Community
@@ -116,7 +116,7 @@ groups:
 
       Similar Instruments from Around the World
 
-      Virtual Instruments and Software
+      [Virtual Instruments and Software](/virtual-instruments)
   - title: How it's Made
     image: /img/instrument-making-tools_compressed.jpg
     text: |-
@@ -128,7 +128,7 @@ groups:
 
       Wood Drying
 
-      Legal Issues
+      [Legal Issues](/import-issues-cites)
   - title: About
     image: /img/syyzheng_compressed.jpg
     text: |-
@@ -136,21 +136,21 @@ groups:
 
       Contact
 
-      Change Log
+      [Change Log](/change-log)
 
-      Digitize Scores
+      [Digitize Scores](/digitizing-scores)
 
       Project Reach
 
-      Research Tools
+      [Research Tools](/research-tools)
 
-      Sitemap (Historic)
+      [Sitemap (Historic)](/sitemap-historic)
 
-      Special Thanks
+      [Special Thanks](/special-thanks)
   - title: References
     image: /img/hkguzhengtail.jpg
     text: |-
-      Bibliography
+      [Bibliography](/bibliography)
 
       Descriptions
 
@@ -225,3 +225,4 @@ sections:
       Visit the forum to read up on past discussions or email Guzheng Alive with
       questions through the form below.
 ---
+
