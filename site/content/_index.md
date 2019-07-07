@@ -49,7 +49,7 @@ groups:
 
       Find Stores
 
-      Guzheng Pricing Tiers
+      [Guzheng Pricing Tiers](/guzheng-pricing-tiers)
   - title: Care and Maintenance
     image: /img/dusty-soundboard.jpg
     text: |-
@@ -154,7 +154,7 @@ groups:
 
       Descriptions
 
-      Further Reading
+      [Further Reading](/further-reading)
 
       Glossary
 
