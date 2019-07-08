@@ -2,7 +2,7 @@
 <div class="flex-m mhn3-m mb4">
 
 <div class="ph3-m w-33-m">
-<<div class="db">
+<div class="db">
 <p>{{ .kingdom }}</p>
 <p>{{ .period }}</p>
 <p>{{ .daterange }}</p>
@@ -14,10 +14,10 @@
 
 <div class="ph3-m w-66-m">
 <div class="db">
-<p>{{ .region }}</p>
-<p>{{ .strings }}</p>
-<p>{{ .event }}</p>
-<p>{{ .usage }}</p>
+{{ if .region }}<p>Region: {{ .region }}</p> {{end}}
+{{ if .strings }}<p>Strings: {{ .strings }}</p>{{end}}
+{{ if .event }}<p>Event: {{ .event }}</p>{{end}}
+{{ if .usage }}<p>Usage: {{ .usage }}</p>{{end}}
 </div>
 </div>
 
