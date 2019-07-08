@@ -386,6 +386,38 @@ collections: # A list of collections the CMS should be able to edit
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
             - {label: Text, name: text, widget: markdown, required: false}
+          - label: Pre-Modern Timeline
+            name: pmtimeline
+            widget: list
+            fields:
+            - {label: Period, name: period, widget: string, required: false}
+            - {label: Date Range, name: daterange, widget: string, required: false}
+            - {label: Image, name: image, widget: image, required: false}
+            - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+            - {label: Region, name: region, widget: string, required: false}
+            - {label: Strings, name: strings, widget: string, required: false}
+            - {label: Event, name: event, widget: string, required: false}
+            - {label: Usage, name: usage, widget: string, required: false}
+          - label: sections2
+            name: sections2
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
+          - label: Modern Timeline
+            name: mtimeline
+            widget: list
+            fields:
+            - {label: Image, name: image, widget: image, required: false}
+            - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+            - {label: Year, name: year, widget: string, required: false}
+            - {label: Description, name: description, widget: markdown, required: false}
+          - label: Blinds
+            name: blinds
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: text, name: text, widget: markdown, required: false}                                         
       - file: "site/content/guzheng-tuning/_index.md"
         label: "Guzheng Tuning"
         name: "guzhengtuning"
