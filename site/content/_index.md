@@ -160,7 +160,7 @@ groups:
 
       List of Figures
 
-      Minor Mentions
+      [Minor Mentions](/general-mentions)
 sections:
   - heading: What is a Guzheng?
     text: >-
