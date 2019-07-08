@@ -88,7 +88,7 @@ groups:
 
       Examples
 
-      Schools and Styles
+      [Schools and Styles](/guzheng-schools-and-styles)
 
       [What is a Guzheng School](/what-is-a-guzheng-school)
 
