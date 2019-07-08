@@ -6,7 +6,7 @@
 					{{ $anchortarget := replaceRE " " "" .heading }}
 				<h2 class="f2 b lh-title mb2" id="{{$anchortarget}}">{{.heading}}</h2>
 
-				<p>{{.text | markdownify}}</p>
+{{ if .text }}				<p>{{.text | markdownify}}</p> {{end}}
 			</div>
 		</div>
 	</div>
