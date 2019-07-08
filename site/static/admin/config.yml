@@ -390,6 +390,7 @@ collections: # A list of collections the CMS should be able to edit
             name: pmtimeline
             widget: list
             fields:
+            - {label: Kingdom, name: kingdom, widget: string, required: false}
             - {label: Period, name: period, widget: string, required: false}
             - {label: Date Range, name: daterange, widget: string, required: false}
             - {label: Image, name: image, widget: image, required: false}
