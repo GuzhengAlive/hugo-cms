@@ -80,7 +80,7 @@ groups:
   - title: Music?
     image: /img/冷暖人生-dennis-wong_compressed.jpg
     text: |-
-      Finding Sheet Music
+      [Finding Sheet Music](/guzheng-sheet-music-sources)
 
       Repertoire
 
