@@ -1,0 +1,21 @@
+{{range .mtimeline}}
+<div class="flex-m mhn3-m mb4 mw8">
+
+<p>{{ .year }}</p>
+<div class="ph3-m w-33-m">
+<div class="db">
+<p>{{ .image }}</p>
+<p>{{ .imagecredit }}</p>
+</div>
+</div>
+
+
+<div class="ph3-m w-66-m">
+<div class="db">
+{{ .description }}
+</div>
+</div>
+
+
+</div>
+{{end}}
