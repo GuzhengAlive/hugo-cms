@@ -15,11 +15,7 @@
 	{{ range $element := .Params.sections2 }}
 		{{ partial "basic-sections" $element }}
 	{{end}}
-
-
-
+  {{ partial "modern-timeline" .Params}}
 	{{ partial "collapsible-blind" .Params}}
-
-
 
 {{ end }}
