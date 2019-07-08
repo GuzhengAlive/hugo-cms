@@ -23,24 +23,3 @@
 
 </div>
 {{end}}
-<!---
-{{ if .imageUrl }}
-  <div class="ph3-m w-33-m">
-    <img src="{{.imageUrl}}" alt="" class="db mb2">
-    <p class="f6">{{.caption}}</p>
-  </div>
-
-  <div class="ph3-m w-66-m">
-    {{ $anchortarget := replaceRE " " "" .heading }}
-    <h3 class="f3 b lh-title mb1" id="{{$anchortarget}}">{{.heading}}</h3>
-    <p>{{.text | markdownify}}</p>
-  </div>
-{{ else }}
-<div class="ph3-m">
-  {{ $anchortarget := replaceRE " " "" .heading }}
-  <h3 class="f3 b lh-title mb1" id="{{$anchortarget}}">{{.heading}}</h3>
-  <p>{{.text | markdownify}}</p>
-</div>
-{{end}}
-</div>
--->
