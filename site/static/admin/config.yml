@@ -417,7 +417,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: list
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
-            - {label: text, name: text, widget: markdown, required: false}                                         
+            - {label: text, name: text, widget: markdown, required: false}
       - file: "site/content/guzheng-tuning/_index.md"
         label: "Guzheng Tuning"
         name: "guzhengtuning"

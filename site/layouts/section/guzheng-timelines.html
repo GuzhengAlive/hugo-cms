@@ -4,8 +4,24 @@
 {{ range $element := .Params.sections }}
 	{{ partial "jump-to-menu" $element }}
 {{end}}
+{{ range $element := .Params.sections2 }}
+	{{ partial "jump-to-menu" $element }}
+{{end}}
 </div>
 	{{ range $element := .Params.sections }}
 		{{ partial "basic-sections" $element }}
 	{{end}}
+	{{ partial "pre-modern-timeline" .Params}}
+{{ end }}
+	{{ range $element := .Params.sections2 }}
+		{{ partial "basic-sections" $element }}
+	{{end}}
+
+
+
+	{{ partial "collapsible-blind" .Params}}
+{{ end }}
+
+
+
 {{ end }}
