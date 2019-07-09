@@ -1,19 +1,15 @@
 {{range .mtimeline}}
-<p class="mw8 center">{{ .year }}</p>
+<p>{{ .year }}</p>
 <div class="flex-m mhn3-m mb4 mw8">
-<div class="ph3-m w-100-m">
-<div class="db">
-  {{if .image}}<img src="{{.image}}">
-  <p>{{ .imagecredit | markdownify}}</p>{{end}}
-</div>
-</div>
+    <div class="ph3-m w-33-m db">
+          {{if .image}}<img src="{{.image}}" class="w-100-m">
+          <p>{{ .imagecredit | markdownify}}</p>{{end}}
+    </div>
 
 
-<div class="ph3-m w-66-m">
-<div class="db">
-{{ .description }}
-</div>
-</div>
+    <div class="ph3-m w-66-m">
+        <p>{{ .description }}</p>
+    </div>
 
 
 </div>
