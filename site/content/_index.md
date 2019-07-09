@@ -9,7 +9,7 @@ groups:
     text: |-
       [Guzheng in 90 Seconds](/guzheng-in-90-seconds)
 
-      Timelines
+      [Timelines](/guzheng-timelines)
 
       The Story of Guzheng's Long History
   - title: Tuning
