@@ -2,11 +2,11 @@
 <div class="flex-m mhn3-m mb4 mw8 center">
 
   <div class="db ph3-m w-33-m" style="max-width: 350px;">
-  <p>{{ .kingdom }}</p>
+  <p class="f4">{{ .kingdom }}</p>
   <p>{{ .period }}</p>
   <p>{{ .daterange }}</p>
   {{if .image}}<img src="{{.image}}" class="w-100-m">
-  <p>{{ .imagecredit | markdownify}}</p>{{end}}
+  <p class="f6">{{ .imagecredit | markdownify}}</p>{{end}}
   </div>
 
   <div class="ph3-m w-66-m">
