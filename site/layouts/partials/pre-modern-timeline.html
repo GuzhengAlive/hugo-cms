@@ -1,8 +1,9 @@
 {{range .pmtimeline}}
+<div class="mw8 center f4">
+<p>{{ .kingdom }}</p>
+</div>
 <div class="flex-m mhn3-m mb4 mw8 center">
-
   <div class="db ph3-m w-33-m" style="max-width: 350px;">
-  <p class="f4">{{ .kingdom }}</p>
   <p>{{ .period }}</p>
   <p>{{ .daterange }}</p>
   {{if .image}}<img src="{{.image}}" class="w-100-m">
@@ -17,6 +18,6 @@
     {{ if .usage }}<p>Usage: {{ .usage }}</p>{{end}}
     </div>
   </div>
-
+<hr />
 </div>
 {{end}}
