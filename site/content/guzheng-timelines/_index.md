@@ -28,6 +28,10 @@ pmtimeline:
       Tomb 306 in the Yinshan Royal Tomb of the Yue Kingdom (印山越国王陵, Yìnshānyuè
       guówáng líng). The ensemble features two musicians on zither like
       instruments, one plucked, one struck. It was uncovered in 1982.
+    image: /img/Tomb+306+musicians+smithsonian.png
+    imagecredit: >-
+      From [Music in the Age of
+      Confucius](https://library.si.edu/digital-library/book/musicinageofconf00soje)
     kingdom: Yue Kingdom
     period: Spring and Autumn Period
     region: 'South, Eastern, in modern day Shaoxing, Zhejiang Province'
@@ -48,18 +52,157 @@ pmtimeline:
     period: Warring States Period
     region: 'North, Eastern; modern-day Shaanxi province'
     strings: '13'
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
+  - daterange: 221-206 BCE
+    kingdom: Qin Dynasty
+    period: Post unification
+    region: 'North and South, Eastern'
+    usage: Existing zheng are used for dinner parties and festivals
+  - daterange: 206 BCE - 9 CE
+    event: >-
+      ~168 BCE se and qin zithers are placed in Tomb 3 of what is now known as
+      Mǎwángduī (马王堆) in Changsha, Hunan Province. They were discovered in 1972.
+      Emperor Wu (孝武皇帝, Xiào Wǔ Huángdì, reigning from 141-87 BCE) sets up the
+      Music Bureau (possibly 乐府, yuèfǔ) to collect and classify folk songs. He
+      marries off one of his daughters with a zheng and zhu accompaniment played
+      on horseback.
+    image: /img/Western+Han+Zheng+Cheng+1991_compressed.jpg
+    imagecredit: From Cheng 1991
+    kingdom: Western Han Dynasty
+    region: 'South, Eastern, stretching to Central'
+    strings: '5, 10, and 13 (5-string pictured)'
+    usage: >-
+      Dinner parties and festivals as before, but is also introduced to the
+      court, and used at weddings, and funerals.
+  - daterange: 25 - 220 CE
+    event: >-
+      Writer Hou Jin composes "Ode to the Zheng" to express his admiration for
+      the instrument.
+    kingdom: Eastern Han Dynasty
+    region: 'South, Eastern, stretching to Central'
+  - daterange: 220 - 265 CE
+    image: /img/Wei+Zheng+Cheng+1991_compressed.jpg
+    imagecredit: From Cheng 1991
+    kingdom: Cao Wei Dynasty
+    period: Three Kingdoms Period
+    region: 'Northern, Eastern'
+    strings: '12'
+    usage: >-
+      Chinese Catalpa wood (Catalpa ovata) is listed as the material used to
+      make zheng.
+  - daterange: 502-587 CE
+    kingdom: Liang Dynasty
+    period: Southern and Northern Dynasties
+    region: Southern
+    strings: '12'
+    usage: >-
+      512 AD sees the first Paulownia wood used in zheng construction. Paulownia
+      is the wood used for soundboards in modern instruments.
+  - daterange: 581-618 CE
+    image: /img/Sui+Zheng+Cheng+1991_compressed.jpg
+    imagecredit: From Cheng 1991
+    kingdom: Sui Dynasty
+    region: 'North and South, Eastern'
+    strings: '12, 13'
+  - daterange: 618-907 CE
+    event: >-
+      Zheng types differentiate widely. Labels are added such as wo zheng, zou
+      zheng, and tan zheng. Other instruments we today would not consider zheng
+      are are included under the label, such as ya zheng and tuosou zheng. Every
+      region has its own relationship to and version of the zheng. See Cheng
+      1991 page 5 for full description.  Emperor Xuánzōng (唐玄宗) (reign: 713-756
+      CE) creates a musical school and titles the best musicians "plucking
+      masters", elevating the social standing of musicians in general.  The
+      13-string zheng is introduced to Japan where it became known as the koto.
+    imagecredit: >-
+      ![Tang Dynasty guzheng](/img/Zenkuang+Tang+Zheng+Cheng+1991_compressed.jpg
+      "Tang Dynasty huzheng that became the model for the koto.")
+
+
+      Tang Dynasty zheng from Cheng 1991
+
+
+      ![MFA Koto, image reversed](/img/MFA+koto_compressed.jpg "A reversed image
+      of a Japanese koto, currently held at the MFA in Boston.")
+
+
+      19th century Japanese koto from MFA, Boston (mirrored for comparison,
+      hence incorrect bridge arrangement) [See original
+      here](http://www.mfa.org/collections/object/zither-koto-446207).
+    kingdom: Tang Dynasty
+    period: ''
+    region: 'North, South, East, and West'
+    strings: '6, 7, 9, 10, 12, 13'
+    usage: >-
+      13-string zheng were the most popular in courts and outside; 12-string
+      zheng were used to play a type of music called "qing yue". (Cheng 1991
+      translates it as "plain music"; Dr. Han defines it as a genre of Hakka
+      music)
+  - daterange: 960-1127 CE
+    event: >-
+      The instruments are reduced in size from their Tang dynasty predecessors,
+      possibly for ease of travel; the 13-string was the most popular.
+    image: /img/Song+Zheng+Cheng+1991_compressed.jpg
+    imagecredit: From Cheng 1991
+    kingdom: Northern Song Dynasty
+    period: ''
+    region: 'North and South, Eastern.'
+    strings: '7, 12, 13'
+    usage: >-
+      Musicians would play zheng solos to mark grand occasions. Zhengs
+      accompanied operettas, story telling traditions, and played as part of
+      ensembles.
+  - daterange: 1127-1279 CE
+    event: >-
+      The 7-string variant from the Tang and Northern Song dynasties had lost
+      popularity by this time.
+    kingdom: Southern Song Dynasty
+    region: 'South, Eastern.'
+    strings: '12, 13'
+    usage: >-
+      Zhengs continued to accompany operettas, story telling traditions, and to
+      be played as part of ensembles.
+  - daterange: 1279-1368 CE
+    event: >-
+      The instrument popular in this time resembles the se. A 14-string version
+      appears for the first time.
+    image: /img/Yuan+Zheng+Cheng+1991_compressed.jpg
+    imagecredit: From Cheng 1991
+    kingdom: Yuan Dynasty
+    region: Practically all of modern China plus land farther north.
+    strings: '12, 13, 14'
+    usage: >-
+      The Mongolian rulers who made up the Yuan dynasty revived Han Dynasty-era
+      music to improve their popular support. That music included roles for
+      zhengs played in the imperial palace.
+  - daterange: 1368-1644 CE
+    event: >-
+      13-string instruments resembling Song and Tang dynasty instruments
+      popular. 15-string is introduced.
+    kingdom: Ming Dynasty
+    region: ' Most of Modern China, though does not extend as far west. Smaller than Yuan.'
+    strings: '12, 13, 14, 15'
+    usage: >-
+      The zheng began the Ming Dynasty as a popular instrument but declined over
+      time. Zhengs continued to be played in imperial court music and by
+      soloists who sang or told stories while they played.
+  - daterange: 1644-1911 CE
+    event: ' 14-string considered the definition of a zheng and used in the imperial palace. Palace zhengs were heavily ornamented with carvings, paintings, and ivory. Their soundboards were made of Paulownia wood and their frames and structures were made of red sandalwood.  Different regions favored different variants. The 13-string was popular in the north while the 15-string was popular in the south. A 16-string variant with copper strings became popular in coastal areas in both the north and south such as modern day Guangdong, the province around Hong Kong, and Shanghai.  Physical styles ranged from the Tang-inspired instruments passed down from the Ming Dynasty to Song-inspired shorter zhengs, which were quite popular. '
+    kingdom: Qing Dynasty
+    region: 'Modern China, plus Mongolia.'
+    strings: '13, 14, 15, 16'
+  - daterange: 1911-> 1949
+    event: >-
+      The 16-string shown at left gains popularity. It has 16 steel strings or
+      wires, with the lowest two wound in copper to emphasize the bass notes.
+      This instrument bears a striking resemblance to the present day Vietnamese
+      Đàn tranh. The soundboard is far more curved, suggesting it developed from
+      a tubular bamboo-based instrument, rather than a wooden plank-based
+      instrument.
+    image: /img/Republican+Zheng+Cheng+1991_compressed.jpg
+    imagecredit: From Cheng 1991
+    kingdom: Republican Era
+    region: 'Modern china, up to and including Qing dynasty borders.'
+    strings: '13 (silk string), 14, 16 (steel), 16 (copper)'
 sections2:
   - heading: 'Timeline of Modern Changes: 1900s to Present'
     text: >-
