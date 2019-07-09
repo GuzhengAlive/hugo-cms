@@ -3,13 +3,14 @@
 <p>{{ .year }}</p>
 </div>
 <div class="flex-m mhn3-m mb4 mw8 center">
+{{if .image}}
     <div class="ph3-m w-33-m db" style="max-width: 350px;">
-          {{if .image}}<img src="{{.image}}" class="w-100-m">
-          <p>{{ .imagecredit | markdownify}}</p>{{end}}
+          <img src="{{.image}}" class="w-100-m">
+          <p>{{ .imagecredit | markdownify}}</p>
     </div>
+{{end}}
 
-
-    <div class="ph3-m w-66-m">
+    <div class="ph3-m">
         <p>{{ .description }}</p>
     </div>
 
