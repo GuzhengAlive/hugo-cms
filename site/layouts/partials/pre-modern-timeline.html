@@ -1,5 +1,5 @@
 {{range .pmtimeline}}
-<div class="flex-m mhn3-m mb4 mw8 center">
+<div class="flex-m mhn3-m mb4 mw8">
 
   <div class="db ph3-m w-33-m">
   <p>{{ .kingdom }}</p>
@@ -10,7 +10,7 @@
   </div>
 
   <div class="ph3-m w-66-m">
-    <div class="db left">
+    <div class="db">
     {{ if .region }}<p>Region: {{ .region }}</p> {{end}}
     {{ if .strings }}<p>Strings: {{ .strings }}</p>{{end}}
     {{ if .event }}<p>Event: {{ .event }}</p>{{end}}
