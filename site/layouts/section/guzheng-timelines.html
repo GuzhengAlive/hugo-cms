@@ -7,6 +7,9 @@
 {{ range $element := .Params.sections2 }}
 	{{ partial "jump-to-menu" $element }}
 {{end}}
+{{ range $element := .Params.blinds }}
+	{{ partial "jump-to-menu" $element }}
+{{end}}
 </div>
 	{{ range $element := .Params.sections }}
 		{{ partial "basic-sections" $element }}
