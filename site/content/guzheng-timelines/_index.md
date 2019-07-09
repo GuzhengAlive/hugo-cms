@@ -17,8 +17,7 @@ pmtimeline:
   - daterange: ~598 BCE
     event: >-
       a tomb is created and two 13-string zheng-like instruments buried within
-      it. It was uncovered in 1979. Test of additional text length as cause for
-      better spacing.
+      it. It was uncovered in 1979.
     kingdom: Wu State
     period: Spring and Autumn Period
     region: 'South, Eastern, modern day Guixi County, Jiangxi province'
