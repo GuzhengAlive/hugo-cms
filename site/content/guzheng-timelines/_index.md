@@ -12,12 +12,14 @@ sections:
       designs were likely still in use in different regions, and there may have
       been additional designs not captured here. If you know of any, get in
       touch through the contact form at the bottom of the page!
+  - heading: 'Pre-Modern Timeline, ~600 BCE to early 1900s'
 pmtimeline:
   - daterange: ~598 BCE
     event: >-
       a tomb is created and two 13-string zheng-like instruments buried within
       it. It was uncovered in 1979.
-    period: Wu State Spring and Autumn Period
+    kingdom: Wu State
+    period: Spring and Autumn Period
     region: 'South, Eastern, modern day Guixi County, Jiangxi province'
     strings: '13'
 sections2:
