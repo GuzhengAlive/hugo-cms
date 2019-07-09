@@ -243,23 +243,182 @@ mtimeline:
       Liang Tsai-Ping from
       [guzheng.cn](http://www.guzheng.cn/zhengren/86/342.shtml)
     year: '1946'
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
+  - description: >-
+      Cáo Zhèng holds zheng classes at Nanjing National Academy (possibly known
+      as the Nanjing National Music Academy) marking the first time zheng
+      classes were held in a school of higher learning.
+    image: /img/Cao+zheng_compressed.jpg
+    imagecredit: 'Cáo Zhèng, from [guzheng.cn](http://www.guzheng.cn/tupian/41_105.shtml)'
+    year: '1948'
+  - description: >-
+      The Chinese Government establishes National and Provincial music schools
+      to begin shaping identity through music. (Han 2013)
+    year: '1949'
+  - description: >-
+      Cáo Zhèng establishes the first formal zheng curriculum at the Lu Xun
+      Academy of Arts in Shenyang. (6)
+    year: '1950'
+  - description: >-
+      The Chairman of the Chinese government urges the people to "create new
+      through old". The music schools and government react by formalizing zheng
+      classes in the conservatories. Their stated goal is to create a new form
+      of music using old instruments.
+    year: '1951'
+  - description: >-
+      The first Forum on Instrument Reforms is held in Beijing. Participants
+      announce how folk instruments will be standardized and improved. 16-string
+      zheng, the most common at the time, are determined to have too small a
+      range to accompany large orchestras. It is announced they need to be
+      changed.
+    year: '1954'
+  - description: >-
+      Zhào Yùzhāi, (赵玉斋) a teacher at Shenyang Conservatory of Music, composes
+      "Celebrating the Harvest" (慶豐年, Qìng fēngnián) demonstrating what is
+      perhaps the first modern instance of harmonies played with the left hand
+      while the right hand played the melody.
+    image: /img/Zhao+Yuzhai_compressed.jpg
+    imagecredit: >-
+      Zhào Yùzhāi shown in 1983, from
+      [guzheng.cn](http://www.guzheng.cn/tupian/41_189.shtml)
+    year: '1955'
+  - description: >-
+      Wèi Zhònglè, (衛仲樂, simp: 卫仲乐), a Shanghai-area musician well known for
+      performing 'serious' music with traditional Chinese instruments, speaks at
+      the Chinese People's Political Consultative Conference (CPPCC,
+      中国人民政治协商会议), saying that while it was true the Central conservatory had
+      established a 'Chinese Folklore Music Department' it was a miserable
+      enterprise with few teachers and very few students. In other words, 5 year
+      on, the classes created in 1951 weren't getting anywhere. (_Chinese News
+      Analysis paraphrased from translation, # 381, page 7, citing 大公報,
+      Takungpao, 天津 (Tianjin) February 10, 1956_)
+    imagecredit: >-
+      Wèi Zhònglè from
+      [baidu.com](https://baike.baidu.com/item/%E5%8D%AB%E4%BB%B2%E4%B9%90)
+    year: '1956'
+  - description: >-
+      Zhào Yùzhāi suggests and oversees the addition of a fourth octave to the
+      popular 16-string zheng, creating a 21-stringed zither. Both bridges were
+      straight.
+    year: '1957'
+  - description: >-
+      Wèi Hóngníng, (魏洪寧) a zheng student from Shanghai and his teacher as the
+      Shanghai Conservatory of Music Wáng Xùnzhī, (王巽之) invent a new form of
+      string. Instead of silk or bare metal wire, they create a string with a
+      metal core, a silk coating, and a nylon winding. Compared to the old
+      strings their new string is stronger, louder, and less prone to changing
+      its tone over time.  (cited by Dr. Han from personal correspondence)
+    image: /img/Wang+Xunzhi_compressed.jpg
+    imagecredit: >-
+      Wáng Xùnzhī, center, from
+      [baidu.com](https://baike.baidu.com/item/%E7%8E%8B%E5%B7%BD%E4%B9%8B)
+    year: Late 1950s
+  - description: >-
+      The Chinese government institutes "Nationalization" (民族化, Mínzú huà), a
+      series of reforms that included directing players of western instruments
+      to learn traditional Chinese instruments instead, possibly in response to
+      the lack of success with the previous music programs (see 1951, 1956).
+    year: '1958'
+  - description: >-
+      Xú Zhèngāo (徐振高) of the Shanghai Musical Instrument Factory and Wáng
+      Xùnzhī, the zheng instructor at the Shanghai Conservatory of Music add a
+      curving "S" bridge to the tail of a 21-string zheng. The tuning pegs are
+      changed from exposed wooden pegs on the top of the instrument to metal
+      pegs hidden inside the instrument. 
+
+
+
+
+      (Shui 2006 credits Miao Jinlin (繆金林, Móujīnlín) with this work alongside
+      Xú Zhèngāo, putting the date to 1963) 
+
+
+
+
+      Visit the Guzheng Types page to see those changes for yourself.
+    image: /img/Xu+Zhen+Gao.jpg
+    imagecredit: >-
+      Xú Zhèngāo in 2016, inspecting a guzheng frame. From
+      [qianlong.com](http://culture.qianlong.com/2016/0204/346246.shtml)
+    year: '1960'
+  - description: >-
+      Zhāng Kūn (张昆), a zheng maker at the Shenyang Musical Instrument Factory,
+      created the first functional modulated of Key-Changeable zheng. Mechanisms
+      near the head of the instrument, by the player's right hand, could change
+      the tension of strings. The action also changed other aspects of the sound
+      but not in a good way. The issues could not be overcome and the instrument
+      was never mass produced. 
+
+
+
+
+      Modulated zhengs received 20+ years of separate development; head over to
+      the Guzheng Types page to read about their advancement.
+    year: '1963'
+  - description: >-
+      The 21-string S-bridge zither is patented under the name Dūnhuáng (敦煌),
+      setting the stage for large scale production.
+    year: '1965'
+  - description: >-
+      Wáng Chāngyuán (王昌元) plays her solo piece Battling the Typhoon (戰台風, zhàn
+      táifēng) as part of a larger concert for the wife of the Chinese Leader
+      Chairman Mao, Jiāng Qīng (江青).  Jiāng Qīng subsequently declares "Battling
+      the Typhoon" worth promoting and does so. (Dr. Han p159)
+
+
+
+
+      "Battling the Typhoon" was scored and rescored for multiple instruments
+      and became one of the most played and consulted pieces of music during
+      that time.
+
+
+
+
+      In my current understanding, "Battling the Typhoon" marked the turning
+      point for the guzheng, sending it off on its own vector. Before this point
+      the guzheng was just another instrument from the past pushed as part of a
+      larger program. Once Wáng Chāngyuán showed it could stand on its own
+      promotion and usage increased. BUT! I'm sure there is more to the story.
+      What do you know of its rise in popularity? What happened between then and
+      now to make the guzheng as big as it is?
+
+
+
+
+      Changes continued after Wáng Chāngyuán's performance that brought the
+      guzheng into its current status today. Innovations continued to take
+      shape:
+    image: /img/wang+changyuan.jpg
+    imagecredit: >-
+      Wáng Chāngyuán from
+      [baidu.com](https://baike.baidu.com/item/%E7%8E%8B%E6%98%8C%E5%85%83/161378)
+    year: '1972'
+  - description: >-
+      The nylon-wrapped metal string, also named Dunhuang, was officially
+      designated as the standard string for guzheng. Nylon-wound strings are now
+      the most common.
+    year: '1975'
+  - description: >-
+      The original Dunhuang string is reclassified as "Type A" and a new
+      standardized "Type B" string is announced to allow for higher string
+      tensions and finer pitch control.
+    year: '1997'
+  - description: >-
+      "Type C" strings are standardized. These sets are capable of even higher
+      tensions and are balanced for tuning a 21-string guzheng to the diatonic
+      scale rather than the pentatonic scale. Type C strings require extra care,
+      so all you pentatonic guzheng enthusiasts, don't just go switching out the
+      strings! As your teacher or local store owner for guidance.
+    year: '2005'
+  - description: >-
+      And there we have it! Visit the Guzheng Types page for a visual look at
+      the many branches of the zheng family tree. Much has been done!  
+
+
+
+
+      And if you know of events I've missed, send me an email through the form
+      below to tell me about them!
 blinds:
   - heading: Notes
     text: >-
