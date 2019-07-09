@@ -22,6 +22,44 @@ pmtimeline:
     period: Spring and Autumn Period
     region: 'South, Eastern, modern day Guixi County, Jiangxi province'
     strings: '13'
+  - daterange: 6th or 5th century BCE
+    event: >-
+      Bronze model of musician's ensemble is placed in what came to be called
+      Tomb 306 in the Yinshan Royal Tomb of the Yue Kingdom (印山越国王陵, Yìnshānyuè
+      guówáng líng). The ensemble features two musicians on zither like
+      instruments, one plucked, one struck. It was uncovered in 1982.
+    kingdom: Yue Kingdom
+    period: Spring and Autumn Period
+    region: 'South, Eastern, in modern day Shaoxing, Zhejiang Province'
+    strings: '13'
+  - daterange: ~433 BCE
+    event: >-
+      Se, qin, and zhu instruments are placed in the tomb of Marquis Yi of the
+      Zeng sub-state. The tomb was uncovered in 1977.
+    kingdom: Zeng 'state' inside Chu State
+    period: Warring States Period
+    region: 'Just barely ''North'', Eastern, in modern day Suizhou, Hubei province'
+    strings: 'Se: 25, Qin: 10, Zhu: 5'
+  - daterange: ~237 BCE
+    event: >-
+      ~237 BCE earliest written reference to an unspecified zheng instrument by
+      Li Si, attributed in “Li Si Liezhuan”, the Biography of Li Si.
+    kingdom: 'Qin State, pre-unification'
+    period: Warring States Period
+    region: 'North, Eastern; modern-day Shaanxi province'
+    strings: '13'
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
 sections2:
   - heading: 'Timeline of Modern Changes: 1900s to Present'
     text: >-
