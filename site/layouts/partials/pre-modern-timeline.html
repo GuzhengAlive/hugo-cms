@@ -6,8 +6,8 @@
 <p>{{ .kingdom }}</p>
 <p>{{ .period }}</p>
 <p>{{ .daterange }}</p>
-<p>{{ .image }}</p>
-<p>{{ .imagecredit }}</p>
+{{if .image}}<img src="{{.image}}">
+<p>{{ .imagecredit | markdownify}}</p>{{end}}
 </div>
 </div>
 

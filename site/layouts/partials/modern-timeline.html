@@ -4,8 +4,8 @@
 <p>{{ .year }}</p>
 <div class="ph3-m w-33-m">
 <div class="db">
-<p>{{ .image }}</p>
-<p>{{ .imagecredit }}</p>
+  {{if .image}}<img src="{{.image}}">
+  <p>{{ .imagecredit | markdownify}}</p>{{end}}
 </div>
 </div>
 
