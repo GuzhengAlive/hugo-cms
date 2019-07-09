@@ -1,6 +1,6 @@
 {{range .mtimeline}}
 <p>{{ .year }}</p>
-<div class="flex-m mhn3-m mb4 mw8">
+<div class="flex-m mhn3-m mb4 mw8 center">
     <div class="ph3-m w-33-m db">
           {{if .image}}<img src="{{.image}}" class="w-100-m">
           <p>{{ .imagecredit | markdownify}}</p>{{end}}
