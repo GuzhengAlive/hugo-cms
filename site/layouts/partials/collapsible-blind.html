@@ -4,7 +4,7 @@
 	{{ $target := replaceRE " " "" .heading }}
   {{  $target2 := slice $target "2"}}
   <input id="{{$target2}}" class="toggle" type="checkbox">
-  <label for="{{$target2}}" class="lbl-toggle mw6" id="{{$target}}">{{.heading}}</label>
+  <label for="{{$target2}}" class="lbl-toggle" id="{{$target}}">{{.heading}}</label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
