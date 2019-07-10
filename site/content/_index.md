@@ -142,7 +142,7 @@ groups:
 
       [Digitize Scores](/digitizing-scores)
 
-      Project Reach
+      [Project Reach](/project-reach)
 
       [Research Tools](/research-tools)
 
