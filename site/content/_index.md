@@ -98,7 +98,7 @@ groups:
     text: |-
       Artists (Famous?)
 
-      Bands
+      [Bands](/guzheng-bands)
 
       [Blogs](/blogs-and-private-works)
 
