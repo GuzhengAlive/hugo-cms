@@ -83,6 +83,28 @@ label.lbl-toggle::before {
   border-left: 10px solid var(--grey-1);
   padding: 0rem 2rem;
 }
+/* Table styling for text search papers */
+table.GeneratedTable {
+  width: 100%;
+  background-color: #ffffff;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #000000;
+  border-style: solid;
+  color: #000000;
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+  border-width: 2px;
+  border-color: #000000;
+  border-style: solid;
+  padding: 3px;
+}
+
+table.GeneratedTable thead {
+  background-color: #bcf6e6;
+}
+
 
 /* simpler colapsible list from https://bernholdtech.blogspot.com/2013/04/very-simple-pure-css-collapsible-list.html
 .collapsibleList div > input + * {
