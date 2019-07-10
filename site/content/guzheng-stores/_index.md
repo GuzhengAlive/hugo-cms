@@ -1,43 +1,35 @@
 ---
-title: Guzheng Teachers Around the World
-image: /img/2015-10-24-18-55-29-a7-by-pya_compressed.jpg
+title: Guzheng Stores in North America
+image: /img/retailers_compressed.jpg
 imagecredit: >-
-  Photo: [2015-10-24 18-55-29-A7 by
-  pya](https://www.flickr.com/photos/py/22342110080/), Used under CC [BY NC ND
-  2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+  Photo: [guzheng by James
+  Creegan](https://www.flickr.com/photos/lostseouls/3464944864/), Used under [CC
+  BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 sections:
   - text: >-
-      Here is a map of guzheng teachers or teaching organizations who have
-      active websites worldwide. There are many more teachers who don't have
-      websites; ask around in your community to find teachers close to you.
-      Please send in an email if you have updated information or teachers to
-      add. Locations on the map are not exact for the sake of teacher privacy.
-      Visit their websites for more information. Visit ChineseZither.net’s List
-      of Teachers for even more teachers and direct contact information.
+      Here is a map of commercial stores that sell guzheng in North America.
+      Teachers may also sell instruments; check the Teacher Page to find someone
+      near you. 
 
 
 
 
-      I haven’t added teachers in most Asian countries because…. my goodness
-      that would be a long list. There are other resources for finding teachers
-      in languages other than English such as GuzhengClub.com; I am unable to
-      document them all.
-  - heading: Legend
-    text: >-
-      Red: Teachers at accredited Universities
+      Don't worry if you need to have an instrument shipped to you. A properly
+      packaged guzheng travels just fine in domestic post. I have sent or
+      received instruments coast to coast and from states in between and they
+      all arrived intact. Make sure your seller provides shipping insurance and
+      has a sensible return policy.
 
 
-      Blue: Studios or Individual Teachers
 
 
-      Rationale for only including teachers with websites: Respects teacher
-      privacy, minimizes time required to maintain the list, and decreases the
-      chance of showing outdated/incorrect information.
+      This map is provided to help your search and is not an endorsement by
+      Guzheng Alive. If you know of other stores or want to update what is shown
+      here, please send us an email.
   - heading: Map
     text: >-
       <iframe
-      src="https://www.google.com/maps/d/embed?mid=1RyIu8c4jxjx7-AGpvX8PIZDNQgwa5MaX" 
+      src="https://www.google.com/maps/d/embed?mid=1Aw1_aJuRRYP3iHfxoJTq7XF4iNj3i3QL" 
       width="100%" height="400"></iframe>
-mapembed: ''
 ---
 
