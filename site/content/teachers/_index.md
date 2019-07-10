@@ -37,7 +37,7 @@ sections:
     text: >-
       <iframe
       src="https://www.google.com/maps/d/embed?mid=1RyIu8c4jxjx7-AGpvX8PIZDNQgwa5MaX" 
-      width="95%" height="400"></iframe>
+      width="100%" height="400"></iframe>
 mapembed: ''
 ---
 
