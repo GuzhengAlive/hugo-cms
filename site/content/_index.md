@@ -129,6 +129,8 @@ groups:
       Wood Drying
 
       [Legal Issues](/import-issues-cites)
+
+      [String Tension](/string-tension)
   - title: About
     image: /img/syyzheng_compressed.jpg
     text: |-
