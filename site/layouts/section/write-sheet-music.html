@@ -4,6 +4,9 @@
 {{ range $element := .Params.sections }}
 	{{ partial "jump-to-menu" $element }}
 {{end}}
+{{ range $element := .Params.sections2 }}
+	{{ partial "jump-to-menu" $element }}
+{{end}}
 </div>
 {{ range $index, $element := .Params.sections }}
 {{ partial "media-block-1-to-3" $element }}
