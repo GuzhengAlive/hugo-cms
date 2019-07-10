@@ -47,7 +47,7 @@ groups:
 
       Buy Used
 
-      Find Stores
+      [Find Stores](/guzheng-stores)
 
       [Guzheng Pricing Tiers](/guzheng-pricing-tiers)
   - title: Care and Maintenance
@@ -108,7 +108,7 @@ groups:
 
       [Teachers](/teachers) (2?)
 
-      Stores (2)
+      [Stores](/guzheng-stores) (2)
   - title: Types
     image: /img/verticalzhengssmall.jpg
     text: |-
