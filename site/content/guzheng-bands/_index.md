@@ -1,43 +1,36 @@
 ---
-title: Guzheng Teachers Around the World
-image: /img/2015-10-24-18-55-29-a7-by-pya_compressed.jpg
+title: Guzheng Bands and Ensembles in North America
+image: /img/artsfest_008-by-aesthir-orig.jpg
 imagecredit: >-
-  Photo: [2015-10-24 18-55-29-A7 by
-  pya](https://www.flickr.com/photos/py/22342110080/), Used under CC [BY NC ND
-  2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+  Photo: [ArtsFest_008 by
+  Aesthir](https://www.flickr.com/photos/aesthir/8854625507/), Used under CC [BY
+  NC ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 sections:
   - text: >-
-      Here is a map of guzheng teachers or teaching organizations who have
-      active websites worldwide. There are many more teachers who don't have
-      websites; ask around in your community to find teachers close to you.
-      Please send in an email if you have updated information or teachers to
-      add. Locations on the map are not exact for the sake of teacher privacy.
-      Visit their websites for more information. Visit ChineseZither.net’s List
-      of Teachers for even more teachers and direct contact information.
+      Here is a map of guzheng ensembles and bands playing in North America.
+      This exists in large part due to the work of [Chinese Music in North
+      America](https://www.facebook.com/chinesemusicinnorthamerica/) group and
+      their [List of ensembles playing Chinese music in North
+      America](https://docs.google.com/document/d/1TIpcGs6kNUEXPynkGinXkEsrE5ulSU-aWS48gi3k2lg/).
+      Attend a show! You will be glad you did.
 
 
 
 
-      I haven’t added teachers in most Asian countries because…. my goodness
-      that would be a long list. There are other resources for finding teachers
-      in languages other than English such as GuzhengClub.com; I am unable to
-      document them all.
+      If you know of other bands or ensembles that should be included or
+      discover any information is out of date, please send me an email.
+      Locations on the map are not exact.
   - heading: Legend
-    text: >-
-      Red: Teachers at accredited Universities
+    text: |-
+      Music Note: Professional, Multi-instrument Ensemble (1)
 
+      Star: Professional, Guzheng Ensemble (1)
 
-      Blue: Studios or Individual Teachers
-
-
-      Rationale for only including teachers with websites: Respects teacher
-      privacy, minimizes time required to maintain the list, and decreases the
-      chance of showing outdated/incorrect information.
+      Drop: Community Guzheng Ensemble (20)
   - heading: Map
     text: >-
       <iframe
-      src="https://www.google.com/maps/d/embed?mid=1RyIu8c4jxjx7-AGpvX8PIZDNQgwa5MaX" 
+      src="https://www.google.com/maps/d/embed?mid=1a_rhZW0fZIKJuw4ZlYsAy5bhWeKNS8HP" 
       width="100%" height="400"></iframe>
-mapembed: ''
 ---
 
