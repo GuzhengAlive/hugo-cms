@@ -92,7 +92,7 @@ groups:
 
       [What is a Guzheng School](/what-is-a-guzheng-school)
 
-      How to Write Sheet Music
+      [How to Write Sheet Music](/write-sheet-music)
   - title: Community
     image: /img/artsfest_008-by-aesthir-orig.jpg
     text: |-
