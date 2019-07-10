@@ -732,6 +732,7 @@ collections: # A list of collections the CMS should be able to edit
             fields:
             - {label: Image, name: image, widget: image, required: false}
             - {label: Caption, name: caption, widget: markdown, required: false}
+            - {label: Download URL, name: downloadUrl, widget: string, required: false}
           - label: Sections2
             name: sections2
             widget: list
