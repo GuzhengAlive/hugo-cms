@@ -158,7 +158,7 @@ groups:
 
       [Further Reading](/further-reading)
 
-      Glossary
+      [Glossary](/glossary)
 
       List of Figures
 
