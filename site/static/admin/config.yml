@@ -280,6 +280,19 @@ collections: # A list of collections the CMS should be able to edit
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
             - {label: Text, name: text, widget: markdown, required: false}
+      - file: "site/content/guzheng-bands/_index.md"
+        label: "Guzheng Bands"
+        name: "guzhengbands"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
       - file: "site/content/guzheng-care/_index.md"
         label: "Guzheng Care"
         name: "guzhengcare"
@@ -363,6 +376,19 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/guzheng-sheet-music-sources/_index.md"
         label: "Guzheng Sheet Music Sources"
         name: "guzhengsheetmusicsources"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
+      - file: "site/content/guzheng-stores/_index.md"
+        label: "Guzheng Stores"
+        name: "guzhengstores"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
