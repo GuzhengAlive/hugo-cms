@@ -31,7 +31,7 @@ groups:
     text: |-
       Where to start
 
-      Teachers
+      [Teachers](/teachers)
 
       Read Sheet Music
 
@@ -106,7 +106,7 @@ groups:
 
       Forum
 
-      Teachers (2?)
+      [Teachers](/teachers) (2?)
 
       Stores (2)
   - title: Types
