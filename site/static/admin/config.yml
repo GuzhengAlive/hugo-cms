@@ -620,6 +620,19 @@ collections: # A list of collections the CMS should be able to edit
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
             - {label: Text, name: text, widget: markdown, required: false}
+      - file: "site/content/teachers/_index.md"
+        label: "Teachers"
+        name: "teachers"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
       - file: "site/content/tune-guzheng-diatonic/_index.md"
         label: "Tune Guzheng Diatonic"
         name: "tuneguzhengdiatonic"

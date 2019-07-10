@@ -1,0 +1,12 @@
+{{ define "main" }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+<div class="tc mw-100">
+{{ range $element := .Params.sections }}
+	{{ partial "jump-to-menu" $element }}
+{{end}}
+</div>
+	{{ range $element := .Params.sections }}
+		{{ partial "basic-sections" $element }}
+	{{end}}
+	<iframe src=https://www.google.com/maps/d/embed?mid=1RyIu8c4jxjx7-AGpvX8PIZDNQgwa5MaX width="95%" height="400"></iframe>
+{{ end }}
