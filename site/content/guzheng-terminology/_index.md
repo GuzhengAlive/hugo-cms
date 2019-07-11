@@ -2,9 +2,9 @@
 title: Guzheng Terminology
 image: /img/inside-zheng-schematic_compressed.jpg
 sections:
-  - caption: '  asd'
-    heading: '  asd'
-    imageUrl: /img/white-background.jpeg
+  - caption: ''
+    heading: ''
+    imageUrl: ''
     text: >-
       The names of the parts are truly magical. Below are the various synonyms
       in Mandarin and English and a 3D model you can explore to see how the
