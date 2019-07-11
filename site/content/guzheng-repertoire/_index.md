@@ -85,8 +85,7 @@ blinds:
   - heading: Sources
     text: >-
       Below are the sources used to create this table. Abbreviations appear in
-      the downloadable version. Right-click or long-tap a link and select "Open
-      in new tab".
+      the downloadable version.
 
 
       CC: [Carol Chang, Guzheng Professional, Forum
