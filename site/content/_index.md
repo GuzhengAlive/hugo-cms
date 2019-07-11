@@ -82,7 +82,7 @@ groups:
     text: |-
       [Finding Sheet Music](/guzheng-sheet-music-sources)
 
-      Repertoire
+      [Repertoire](/guzheng-repertoire)
 
       [New Album Releases](/new-album-releases)
 
