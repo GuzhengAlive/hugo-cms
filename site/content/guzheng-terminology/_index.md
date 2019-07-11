@@ -1,156 +1,266 @@
 ---
-title: Finger Picks
-image: /img/white-background.jpeg
+title: Guzheng Terminology
+image: /img/inside-zheng-schematic_compressed.jpg
 sections:
-  - caption: Example nail length from small to large.
-    heading: Size
-    imageUrl: /img/nail-sizes.jpg
+  - caption: '  asd'
+    heading: '  asd'
+    imageUrl: /img/white-background.jpeg
     text: >-
-      Nails are sold by their size (型号, xínghào). Size depends on the length of
-      your middle finger’s pad, measured from the tip to your first knuckle.
-      Your goal is to have nails that cover most of your pad and extend 3-5mm
-      beyond the tip of your finger.  Sizes are recommended for certain ages or
-      certain heights. In general:
-
-
-      **Small  (小号, xiǎo hào):**
-
-
-      Who: children below the age of 9 or under 1.3m tall (51 inches, 4’3”)
-
-
-      Nail Lengths: Finger:22-23mm Thumb: 24-25mm
-
-
-      **Medium (中号, zhōng hào):**
-
-
-      Who: adolescents between 10-15 or between 1.3 and 1.6m tall (51-63 inches)
-
-
-      Nail Lengths: 24-26mm Thumb:27-28mm
-
-
-      **Large (大号, dà hào):**
-
-
-      Who: people over the age of 16 or taller than 1.6m (63 inches, 5’3”)
-
-
-      Nail Lengths: 27-29mm Thumb: 30-31mm
-
-
-
-
-      Thumb nails are measured by the furthest two points on the nail. Two nails
-      can have the same thumb length but vastly different reach and design.
-  - caption: 'Left to right: Flat, Single Arc, Double Arc'
-    heading: Nail Curvature
-    imageUrl: /img/nail-curvature.jpg
+      The names of the parts are truly magical. Below are the various synonyms
+      in Mandarin and English and a 3D model you can explore to see how the
+      parts all come together.
+  - caption: 'Parts of a guzheng, numbers 1-8. Diagram by author.'
+    heading: Top and Body
+    imageUrl: /img/parts-of-a-guzheng-1o3_compressed.jpg
     text: >-
-      The next big difference between nail sets is the curvature of their
-      surfaces.  You will find these and the indent below called out under
-      ‘‘规格’’ (guīgé , specification) alongside the indents, below.
+      1) Dragon: The top of the instrument or portion by the performer (龙／龍,
+      lóng). 
 
 
-      **Flat, beginner nails** - Both sides are flat. These are almost always
-      thin and considered insufficient for advanced techniques. Often found
-      taped to cards. This is not often labeled, it’s obvious.
+      Also Head (头/頭, tóu), Dragon Head (龙头/龍頭, lóngtóu), Leader (首, shǒu)
 
 
-      **单弧 (dān hú)** - “Single Arc” - one side is flat while the other is
-      curved. The curved surface is what strikes the strings; the flat side is
-      what touches the skin. The finger side can be flat or it can be indented.
-      These are considered easier to use than Double Arc nails but are not as
-      effective at some techniques.
 
 
-      **双弧 (shuāng hú)** - “Double Arc” - the nails are curved on both sides.
-      This nail style is said to provide the best playing experience across all
-      techniques but is harder to control. It allows for focused force
-      transmission between the string and the finger. Proper taping technique is
-      important as these nails are less stable on the finger when taped
-      improperly.
-  - caption: 'Left to right: No indent, concave groove, double groove.'
-    heading: Nail Indents
-    imageUrl: /img/nail-indents.jpg
+      2) Phoenix: The bottom of the instrument or portion farthest from the
+      performer (风/鳳, fèng).
+
+
+      Also Tail (尾, wěi), Phoenix Tail (风尾/鳳尾, fèng wěi). 
+
+
+
+
+      3) Soundboard: The curving piece of wood underneath the strings (面板,
+      miànbǎn).
+
+
+      Also translated to English as Faceboard.
+
+
+
+
+      4) Strings: The silk, metal, or nylon-coated metal threads that stretch
+      above the soundboard (弦, xián).
+
+
+      An older variant was written 絃, with the same meaning and pronunciation.
+      You might also hear english speakers refer to metal strings as wires, or
+      silk strings as threads.
+
+
+
+
+      5) (High) Mountains: The general term for the ridges of material at the
+      tail and head of the instrument that act as end points for the
+      strings(岳山/嶽山, yuèshān). (2)
+
+
+      Also Fixed Bridges in English.
+
+
+
+
+      6) Mountain Pass: The straight fixed bridge by the performer, at the head
+      of the instrument (山口, shānkǒu). 
+
+
+      Also Front bridge (前梁, qián liáng)  Front (high) Mountain (前岳山/ 前嶽山, qián
+      yuèshān).
+
+
+
+
+      7) Rear Bridge: The fixed bridge at the far end of the instrument (后梁/後梁,
+      Hòu liáng)
+
+
+      Also S-Bridge in English, and Rear (High) Mountain (后岳山/後嶽山, hòu yuèshān)
+      (2).
+
+
+
+
+      8) Bridges: The roughly triangular/pyramidal supports that lift the
+      strings off the soundboard. (马/馬, mǎ) (3)
+
+
+      Also Moveable Bridge in English, Pillar (柱, zhù), Wild Goose Pillar (雁柱,
+      yàn zhù). 雁 may not be a direct translation, much like 马 above. (琴码/琴碼,
+      qín mǎ), or (码子/碼子, mǎ zi) use the character 码 but I have yet to find a
+      translation I understand. The closest I have gotten is "counter", as in,
+      something that indicates a number, and there are certainly a lot of
+      strings to keep track of.
+  - caption: 'Parts of a guzheng, numbers 9-12. Diagram by author.'
+    heading: Head and Side
+    imageUrl: /img/parts-of-a-guzheng-2o3_compressed.jpg
     text: >-
-      Nails can be shaped to better fit the finger. Each shape comes with
-      benefits and costs.
+      9) Tuning Box: The compartment in the head of the instrument where the
+      tuning pegs are located (调音盒/調音盒, tiáoyīn hé)
 
 
-      Flat - Easy to make and cheaper to buy and store, but offer less control.
-      They are prone to shifting on  the finger. Flat sides are often found on
-      beginner’s nails and 单弧 (dān hú, Single Arc) nails.
+      Also (String) Tuning Box (调弦盒/調弦盒,  tiáo xián hé).
 
 
-      凹槽 (āo cáo) - “Concave Groove”. The string side is convex while the finger
-      side has an indent for your finger’s pad. It’s great for beginners because
-      it is very stable and comfortable. Some people warn it can cause fingers
-      to sweat in the summer.
 
 
-      双槽 (shuāng cáo) - “Double Groove”  The string side is curved while the
-      finer side has two grooves cut in the surface. This is supposed to
-      increase stability but varies person to person. Some people may find the
-      ridge presses uncomfortably into the finger while it may be just fine for
-      others.
+      10) Cover: The cover to the compartment that holds the tuning pegs, and is
+      often used as extra storage space for additional tools (琴盖/琹蓋, qín gài).
 
 
-      全弧 (quán hú) - “Full Arc” The entire finger side of the nail is concave
-      rather than just an indent. This is apparently a newer style for people
-      with wider fingers. It’s not pictured as the nail set I have is
-      translucent and difficult to photograph.
-  - caption: 'From left to right: 1.5mm, 2.8mm, 3mm'
-    heading: Thickness
-    imageUrl: /img/nail-thickness.jpg
+      Also Box Cover (盒盖/盒蓋, hé gài).  
+
+
+
+
+      11) Tuning pins: The metal pins that one end of the strings are wound
+      around; twisting the pins raises and lowers the tension in the strings and
+      therefore, their pitch or tuning (弦轴/弦軸, xián zhóu)
+
+
+      Also Spool (轴/軸, zhóu), String Nail (弦钉/弦釘, xián dīng), (肖子, xiàozǐ) (no
+      translation yet) and reportedly (轸/軫, zhěn) (no translation yet).
+
+
+
+
+      12) Side Board: The edge face of the instrument, part of the frame. Often
+      have artwork (边板/邊板, biān bǎn).
+
+
+      Aso Side (舷, xián), more literall y, Side Panel (侧板/側板, cè bǎn)
+  - caption: 'Parts of a guzheng, numbers 13-18. Diagram by author.'
+    heading: Underside
+    imageUrl: /img/parts-of-a-guzheng-3o3_compressed.jpg
     text: >-
-      Thicker nails are less flexible, emphasize lower pitches, and are less
-      prone to breaking. They are however a bit heavier and can be difficult for
-      smaller children or those with weaker fingers. Thin nails require less
-      strength and emphasize higher frequencies but their flexibility can make
-      some techniques difficult.
+      13) Backboard: The back panel of the instrument that helps form the
+      resonating chamber (底板/底板, dǐbǎn).
 
 
-      Thickness is measured in millimeters and can be anywhere from less than
-      1.5mm to more than 3.5mm.  Flat nails tend to be on the thin side while
-      tapered nails tend to be thicker. From [one
-      recommendation](https://www.xiaohongshu.com/discovery/item/5abbaa3e19f71621b842940a?_at=4094af468c2e9e3c03028a90cb5facedce470):
+      Also Backboard (背板, bèi bǎn).
 
 
-      Age < 7 years, grades 1-3: 1.5mm
 
 
-      Grades 4-5: 2.0mm
+      14) Sound Holes: The cutouts in the backboard that allow sound to escape
+      from the resonating chamber in the body of the instrument (出音孔, chū yīn
+      kǒng). (4)
 
 
-      Grades 7-10: 2.5mm
+      Also Sound (Emitting) Hole (发音孔／發音孔, fāyīn kǒng).
 
 
-      High level students: 2.5mm to 3.0mm
 
 
-      Beyond 3.0mm: players who specifically need the extra thickness for their
-      techniques.
+      15) Dragon Pond: The sound hole under the Dragon end, or head of the
+      instrument (龙池/龍池, lóngchí).
 
 
-      Note: It is unclear if “grade” refers to guzheng playing ability (1-10) or
-      the year of school.
-  - caption: 'Four different thumb nail shapes. Not pictured: half moon type.'
-    heading: Angles
-    imageUrl: /img/thumb-nail-angles.jpg
+      Also Dragon Cave (龙穴/龍穴, lóng xué).
+
+
+
+
+      16) Celestial Pond: The sound hole in the center of the backboard (天池,
+      tiānchí).
+
+
+      Also Earth well (地... di tan), and 懸 眼. Reportedly zheng can be hung from
+      the wall by this point.
+
+
+
+
+      17) Phoenix Eyes: The curving sound hole found under the Phoenix end, or
+      tail, of the instrument  (风眼/鳳眼, fèng yǎn). Sometimes carved in reflected
+      pairs. Also provides access to one end of the strings.
+
+
+      Also 鳳 沼
+
+
+
+
+      18) Feet: The portion under the Dragon or head of the instrument that
+      raises the soundboard of the instrument above any flat surface it is
+      placed on (足, zú).
+
+
+      Also Bottom Foot (底脚/底腳, dǐ jiǎo), (Wild) Goose Foot (雁足, yàn zú).
+  - caption: '  asd'
+    heading: Interactive Model
+    imageUrl: /img/white-background.jpeg
     text: >-
-      There is one other factor: The angles of the nail. Now, there is no
-      standard measuring system that I know of but the end result is the same:
-      what angle does the thumb nail make with the rest of the finger? How sharp
-      is the angle on the point of the nail? How quickly does the thickness of
-      the nail decrease to nothing? There is a general practice but individual
-      nails vary. If you find yourself excelling with one set of nails and
-      struggling with another, you’re not crazy. Small differences do matter.
+      Click the picture below to load the model and explore!
 
 
-      On the thumb angle there is a newer style that is gaining popularity
-      called 半月型  (bànyuè xíng ) “Half-moon type”. The thumb is so curved it
-      looks like a crescent moon. No word on how that affects playing or their
-      sound.
+      <iframe
+      src="https://3dwarehouse.sketchup.com/embed.html?mid=da50a2fd-5695-4540-9626-9f4800c9b1fc&width=1000&height=360"
+      frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+      width="1000" height="360" allowfullscreen></iframe>
+  - caption: '  ad'
+    heading: Accessories and Details
+    imageUrl: /img/white-background.jpeg
+    text: >-
+      1. Key: The tool used to turn the tuning pins (匙, Shi). The ancient
+      version of this tool looked very much like an ornate door key. Also known
+      as a Tuning Wrench in English.
+
+      2. Stand: The supports on which the instrument is placed to be played (架子,
+      Jiàzi). (5)
+
+      3. String Rest: The extra strip of material running the length of the
+      straight fixed bridge (弦枕, xián zhěn). It protects the fixed bridge from
+      the strings and provides a cleaner sound by creating a uniform and firm
+      end point for the strings' vibrations.
+
+      4. The Hidden Chamber: The empty space in the interior of the instrument
+      (隐间, yǐn jiān). Also know as Resonating Chamber in English.
+
+      5. Lastly, the holes through which the strings pass on the top of the
+      instrument seem to have a variety of names. Some of those names may be
+      dependent on where the holes are. I've seen the more general 絃眼/弦眼 as well
+      as 穿弦孔 for the holes that connect to the tuning pins and 挂弦孔 for the holes
+      that anchor one end of the ends of the strings in the tail. Until I get
+      get clarity on this I won't list out translations and full explanations.
+      If you know something about these, please email me!
+  - caption: asd
+    heading: Notes
+    imageUrl: /img/white-background.jpeg
+    text: >-
+      (1) Most of the single character-versions of the names can also appear
+      with "zheng" in front, such as "zheng head, zheng tail", etc. That's
+      implied so I've left that out. Both phrasings are correct.
+
+
+
+
+      (2) Translations can be really fun. I must confess I don't know if 岳 is
+      being used here as "high" or "highest". I chose "high" because "highest"
+      implies a comparison and I don't know what it's being compared to.
+
+
+
+
+      (3) Chinese musicians who play western and traditional instruments agree,
+      "马/馬" means "bridge" in this usage, not "horse". They use the same term
+      for the bridge of bowed western instruments like the violin.
+
+
+
+
+      (4) Zheng can have as little as one or as many two dozen sound holes
+      depending on the design. Cheng 1991 claims to have made a zheng with
+      dozens of small holes drilled into the backboard rather than several large
+      cutouts, and I have seen similar instruments for sale with a similar
+      array.
+
+
+
+
+      (5) The instrument has been played many ways throughout history. It has
+      been played resting on the ground, resting on the performer's legs,
+      resting on a flat table or resting on stands. 架子 refers to the 2 or
+      3-piece supports most commonly used for guzheng.
 ---
+
