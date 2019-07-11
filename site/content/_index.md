@@ -37,7 +37,7 @@ groups:
 
       Finger Techniques
 
-      Parts and Terms
+      [Parts and Terms](/guzheng-terminology)
   - title: Buying
     image: /img/retailers.jpg
     text: |-
