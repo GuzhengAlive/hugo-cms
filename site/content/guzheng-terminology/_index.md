@@ -187,9 +187,9 @@ sections:
 
 
       Also Bottom Foot (底脚/底腳, dǐ jiǎo), (Wild) Goose Foot (雁足, yàn zú).
-  - caption: '  asd'
+  - caption: ''
     heading: Interactive Model
-    imageUrl: /img/white-background.jpeg
+    imageUrl: ''
     text: >-
       Click the picture below to load the model and explore!
 
@@ -198,9 +198,9 @@ sections:
       src="https://3dwarehouse.sketchup.com/embed.html?mid=da50a2fd-5695-4540-9626-9f4800c9b1fc&width=1000&height=360"
       frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
       width="1000" height="360" allowfullscreen></iframe>
-  - caption: '  ad'
+  - caption: ''
     heading: Accessories and Details
-    imageUrl: /img/white-background.jpeg
+    imageUrl: ''
     text: >-
       1. Key: The tool used to turn the tuning pins (匙, Shi). The ancient
       version of this tool looked very much like an ornate door key. Also known
@@ -224,9 +224,9 @@ sections:
       that anchor one end of the ends of the strings in the tail. Until I get
       get clarity on this I won't list out translations and full explanations.
       If you know something about these, please email me!
-  - caption: asd
+  - caption: ''
     heading: Notes
-    imageUrl: /img/white-background.jpeg
+    imageUrl: ''
     text: >-
       (1) Most of the single character-versions of the names can also appear
       with "zheng" in front, such as "zheng head, zheng tail", etc. That's
