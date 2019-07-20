@@ -5,9 +5,9 @@ image: /img/wufei.jpeg
 videos:
   - youtubecode: 6mdvMthlZkY
 ---
+[Facebook](https://www.facebook.com/realwufeimusic/)
+
 Originally from Beijing, currently in Tennessee, Wu Fei grabbed my attention when I saw video of her singing along with her instrument during an interview. The more I learned about her career the more amazed I became. She has collaborated with a  wide variety of musicians across a range of genres, blending her skill with voice and instrument with groups large and small. I highly recommend checking out her work.
-
-
 
 ## Special performance:
 
@@ -15,15 +15,11 @@ Originally from Beijing, currently in Tennessee, Wu Fei grabbed my attention whe
 
 Wonderful demonstrations and information from Crosstown Arts gallery on Cleveland Street in Memphis, TN, held on June 30, 2017. Sound courtesy of [Sonosphere podcast](https://sonospherepodcast.com/2017/07/07/an-evening-with-wu-fei/).
 
-
-
 ## Other Interviews:
 
 * [March 2017 for Big Ears festival](http://ashevillegrit.com/wu-fei-ancient-tradition-meets-avant-garde-big-ears-festival-interview)
 * [December 7th 2016 interview with WUOT 91.9 FM, Knoxville](http://wuot.org/post/wu-fei-redefines-chinese-classical-music)
 * [~2011 brief video spot for Dan Wei](https://vimeo.com/24559065)
-
-
 
 ## Music:
 
