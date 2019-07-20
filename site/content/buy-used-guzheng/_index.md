@@ -125,7 +125,22 @@ sections:
       condition. Most won’t be. You’ll see Wear, Maintenance Issues, Damage, and
       Build Quality issues that could move the price lower.
   - heading: Wear
-    lightbox: []
+    lightbox:
+      - caption: >-
+          Scuffs on the soundboard. Normal. Should not impact sound unless very
+          deep.
+        image: /img/worn soundboard.jpg
+        target: wornsoundboard
+      - caption: >-
+          Wear marks from guzheng stands or table. Normal, should not affect
+          sound.
+        image: /img/worn backboard.jpg
+        target: wornbackboard
+      - caption: >-
+          Edges of tuning pis show some where; slight copper color visible
+          underneath nickel plating. Normal, should not affect sound.
+        image: /img/worn tuning pins.jpg
+        target: worntuningpin
     text: >-
       Impact: May lower price for artistic reasons. Shouldn’t affect sound.
 
