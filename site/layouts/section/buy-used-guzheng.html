@@ -8,5 +8,5 @@
 	{{ range $element := .Params.sections }}
 		{{ partial "basic-sections" $element }}
 	{{end}}
-			{{ partial "sections-w-lightbox-3up" }}
+			{{ partial "sections-w-lightbox-3up" .Params }}
 {{ end }}
