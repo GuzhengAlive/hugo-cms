@@ -125,6 +125,7 @@ sections:
       condition. Most won’t be. You’ll see Wear, Maintenance Issues, Damage, and
       Build Quality issues that could move the price lower.
   - heading: Wear
+    lightbox: []
     text: >-
       Impact: May lower price for artistic reasons. Shouldn’t affect sound.
 
