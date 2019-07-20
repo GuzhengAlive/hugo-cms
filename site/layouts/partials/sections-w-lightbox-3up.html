@@ -1,0 +1,34 @@
+
+
+<!--Pneed another field for each image to create anchors-->
+{{ range .sections}}
+<div class="pv4">
+	<div class="ph3 mw8 center">
+
+		<div class="mhn2-l">
+					{{ $anchortarget := replaceRE " " "" .heading }}
+				<h2 class="f2 b lh-title mb2" id="{{$anchortarget}}">{{.heading}}</h2>
+
+{{ if .text }}				<p>{{.text | markdownify}}</p> {{end}}
+		</div>
+    {{if .lightbox}}
+        <div class="flex-ns flex-wrap mhn2-ns mb3">
+          {{ range .lightbox }}
+          <div class="ph2-ns w-33-ns mb3">
+            <h2 class="f3 b lh-title mb2">{{.title}}</h2>
+            <a class="lightbox" href="#{{.target}}" class="left db mb3">
+               <img src="{{.image}}"/>
+            </a>
+            <div class="lightbox-target" id="{{.target}}">
+               <img src="{{.image}}"/>
+               {{.caption}}
+               <a class="lightbox-close" href="#"></a>
+             </div>
+          {{ end }}
+        </div>
+    </div>
+    {{end}}
+
+	</div>
+</div>
+{{end}}
