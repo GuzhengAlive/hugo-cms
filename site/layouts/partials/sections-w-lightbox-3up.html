@@ -5,16 +5,17 @@
 <div class="pv4">
 	<div class="ph3">
 
-		<div class="mhn2-l">
+		<div class="mhn2-l mw8 center">
 					{{ $anchortarget := replaceRE " " "" .heading }}
-				<h2 class="f2 b lh-title mb2 mw8 center" id="{{$anchortarget}}">{{.heading}}</h2>
+				<h2 class="f2 b lh-title mb2 " id="{{$anchortarget}}">{{.heading}}</h2>
 
 {{ if .text }}				<p>{{.text | markdownify}}</p> {{end}}
+</div>
 <div class="flex-ns flex-wrap mhn2-ns mb3">
     {{if .lightbox}}
 
           {{ range .lightbox }}
-            <a class="lightbox  mw8 center" href="#{{.target}}" class="left db mb3">
+            <a class="lightbox  mw8 center" href="#{{.target}}" class="left db mb3 w-33">
                <img src="{{.image}}"/>
             </a>
             <div class="lightbox-target" id="{{.target}}">
@@ -27,6 +28,5 @@
     {{end}}
   </div>
 	</div>
-</div>
 </div>
 {{end}}
