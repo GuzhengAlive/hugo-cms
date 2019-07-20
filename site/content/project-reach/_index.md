@@ -5,14 +5,30 @@ imagecredit: ''
 sections:
   - text: >-
       Visitors come from all over the world to read about the guzheng. People
-      visit from all continents except Antarctica. That's amazing! The total for
-      traffic from January 2018 to January 2019 is over 5,500 visits yielding
-      18,100 page views from 87 countries in over 1240 cities.
+      visit from all continents except Antarctica. That's amazing!
 
 
       <iframe
       src="https://www.google.com/maps/d/embed?mid=1MmYkkpsiek1DqS1j554KBlwQd7hXP3EJ" 
       width="100%" height="400"></iframe>
+
+
+
+
+      The total for traffic from January 2018 to January 2019 is over 4,600
+      visits yielding 17,900 page views from 82 countries in over 1,090 cities.
+
+
+
+
+      Shifting 6 months later for July 2018 to July 2019 the numbers are  7,300
+      visits (!!!) and 23,500 page views from 95 countries in over 1,438
+      cities.We have ourselves some growth!
+
+
+
+
+      (only counting non-bounced sessions)
   - heading: Regions and Countries
     text: >-
       Below are all the countries and named regions where visitors have come
