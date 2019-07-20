@@ -96,7 +96,7 @@ groups:
   - title: Community
     image: /img/artsfest_008-by-aesthir-orig.jpg
     text: |-
-      Artists (Famous?)
+      [Artists](/artists) (Famous?)
 
       [Bands](/guzheng-bands)
 
