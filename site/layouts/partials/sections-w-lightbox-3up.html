@@ -11,9 +11,9 @@
 
 {{ if .text }}				<p>{{.text | markdownify}}</p> {{end}}
 </div>
-<div class="flex-ns flex-wrap mhn2-ns mb3">
-    {{if .lightbox}}
 
+    {{if .lightbox}}
+<div class="mhn2-ns mb3 flex">
           {{ range .lightbox }}
             <a class="lightbox  mw8 center" href="#{{.target}}" class="left db mb3">
                <img src="{{.image}}" class="w-33"/>
@@ -24,9 +24,9 @@
                <a class="lightbox-close" href="#"></a>
              </div>
           {{ end }}
-
-    {{end}}
   </div>
+    {{end}}
+
 	</div>
 </div>
 {{end}}
