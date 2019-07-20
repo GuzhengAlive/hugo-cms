@@ -208,6 +208,13 @@ collections: # A list of collections the CMS should be able to edit
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
             - {label: Text, name: text, widget: markdown, required: false}
+          - label: Lightbox
+            name: lightbox
+            widget: list
+            fields:
+            - {label: "Image", name: "image", widget: "image"},
+            - {label: "Target", name: "target", widget: "string"}
+            - {label: "Caption", name: "caption", widget: "markdown"}
       - file: "site/content/cost-of-ownership/_index.md"
         label: "Cost Of Ownership"
         name: "costofownership"
