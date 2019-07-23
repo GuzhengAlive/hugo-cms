@@ -1,8 +1,3 @@
-# As you'll see below this is a HUGO CMS running on Netlify. Unfortunately NEtlify Dev does not work on my local machine, meaning all of my deploys go to the live site. Horrific, I know. Until I get that fixed though, enjoy a never-ending procession of inane changes and rollbacks that really should be reversions but aren't.
-
-On with the show:
-
-
 # Hugo template for Netlify CMS with Netlify Identity
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
